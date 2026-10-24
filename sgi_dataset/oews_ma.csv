@@ -1,0 +1,738 @@
+AREA,AREA_TITLE,REFERENCE_PERIOD,SOC_2018,OEWS_TITLE,SOC_2,EMPLOYMENT,EMPLOYMENT_RSE_PCT,JOBS_PER_1000,LOCATION_QUOTIENT,A_MEAN,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90,EMPLOYMENT_STATUS,WAGE_STATUS
+MA,Massachusetts,May 2025,11-1011,Chief Executives,11-0000,6590,11.4,1.811,1.38,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,11-1021,General and Operations Managers,11-0000,95880,2,26.357,1.17,155020,60700,82190,127220,199540,314780,ok,ok
+MA,Massachusetts,May 2025,11-2011,Advertising and Promotions Managers,11-0000,300,18.7,0.084,0.61,165890,72280,100490,163090,195240,258530,ok,ok
+MA,Massachusetts,May 2025,11-2021,Marketing Managers,11-0000,14270,7.4,3.922,1.54,213230,122350,167290,212020,261420,310510,ok,ok
+MA,Massachusetts,May 2025,11-2022,Sales Managers,11-0000,15010,3.6,4.127,1.01,201180,100510,141040,191200,235420,321000,ok,ok
+MA,Massachusetts,May 2025,11-2032,Public Relations Managers,11-0000,2170,8.9,0.597,1.24,181950,93220,121570,171740,215490,315920,ok,ok
+MA,Massachusetts,May 2025,11-2033,Fundraising Managers,11-0000,2260,5.1,0.622,2.49,165860,92650,107450,151740,204560,277040,ok,ok
+MA,Massachusetts,May 2025,11-3012,Administrative Services Managers,11-0000,9130,5.6,2.511,1.48,128110,76160,93230,116710,153230,200150,ok,ok
+MA,Massachusetts,May 2025,11-3013,Facilities Managers,11-0000,6070,3.3,1.668,1.66,131200,77430,99100,124100,159980,196150,ok,ok
+MA,Massachusetts,May 2025,11-3021,Computer and Information Systems Managers,11-0000,24910,3.3,6.847,1.59,218740,134390,173350,214960,260040,308250,ok,ok
+MA,Massachusetts,May 2025,11-3031,Financial Managers,11-0000,26150,2.5,7.19,1.33,218230,120850,161870,206760,287520,332490,ok,ok
+MA,Massachusetts,May 2025,11-3051,Industrial Production Managers,11-0000,4470,4.4,1.23,0.78,162230,99920,125390,148050,184050,227080,ok,ok
+MA,Massachusetts,May 2025,11-3061,Purchasing Managers,11-0000,2160,4.7,0.594,1.1,179070,105500,135340,170750,215850,266990,ok,ok
+MA,Massachusetts,May 2025,11-3071,"Transportation, Storage, and Distribution Managers",11-0000,4310,3.9,1.185,0.83,139330,75400,94990,123830,169740,223700,ok,ok
+MA,Massachusetts,May 2025,11-3111,Compensation and Benefits Managers,11-0000,670,13.6,0.183,1.24,196100,128390,161000,184070,223150,285030,ok,ok
+MA,Massachusetts,May 2025,11-3121,Human Resources Managers,11-0000,7540,4.3,2.072,1.46,195110,99990,136600,181780,229510,315700,ok,ok
+MA,Massachusetts,May 2025,11-9021,Construction Managers,11-0000,9870,6.4,2.713,1.11,155900,104100,127020,145010,173520,216920,ok,ok
+MA,Massachusetts,May 2025,11-9031,"Education and Childcare Administrators, Preschool and Daycare",11-0000,2260,9.4,0.622,1.31,72890,47530,57090,70320,79490,102570,ok,ok
+MA,Massachusetts,May 2025,11-9032,"Education Administrators, Kindergarten through Secondary",11-0000,10570,2.2,2.906,1.38,126350,81640,103440,128430,138380,166240,ok,ok
+MA,Massachusetts,May 2025,11-9033,"Education Administrators, Postsecondary",11-0000,9120,1,2.507,2.16,144110,79040,96080,128970,171900,228410,ok,ok
+MA,Massachusetts,May 2025,11-9039,"Education Administrators, All Other",11-0000,1200,13.9,0.331,0.93,106670,63640,79110,86540,127910,165710,ok,ok
+MA,Massachusetts,May 2025,11-9041,Architectural and Engineering Managers,11-0000,7690,3.7,2.114,1.49,203040,137750,166430,201430,226680,286410,ok,ok
+MA,Massachusetts,May 2025,11-9051,Food Service Managers,11-0000,4310,12.4,1.185,0.77,91810,58290,73430,92240,102920,129990,ok,ok
+MA,Massachusetts,May 2025,11-9071,Gambling Managers,11-0000,40,6.1,0.011,0.34,112820,100460,100460,100460,103850,181580,ok,ok
+MA,Massachusetts,May 2025,11-9072,"Entertainment and Recreation Managers, Except Gambling",11-0000,1030,10,0.282,1.15,94620,55540,72360,89450,105770,132740,ok,ok
+MA,Massachusetts,May 2025,11-9081,Lodging Managers,11-0000,null,null,null,null,107720,64030,75350,97350,125180,166600,not_released,ok
+MA,Massachusetts,May 2025,11-9111,Medical and Health Services Managers,11-0000,17600,2.6,4.838,1.26,161150,84330,104630,134360,178540,296030,ok,ok
+MA,Massachusetts,May 2025,11-9121,Natural Sciences Managers,11-0000,10590,4.8,2.91,4.16,257010,153490,214550,267290,321770,329820,ok,ok
+MA,Massachusetts,May 2025,11-9131,Postmasters and Mail Superintendents,11-0000,330,0,0.092,1.03,99250,85720,91500,96870,103750,114730,ok,ok
+MA,Massachusetts,May 2025,11-9141,"Property, Real Estate, and Community Association Managers",11-0000,7320,8.1,2.012,1.01,112940,62070,77190,103410,130000,181430,ok,ok
+MA,Massachusetts,May 2025,11-9151,Social and Community Service Managers,11-0000,8800,3.5,2.418,1.8,90020,60520,66700,81380,102910,130060,ok,ok
+MA,Massachusetts,May 2025,11-9161,Emergency Management Directors,11-0000,220,4.9,0.061,0.7,131520,81100,97490,123250,159640,195190,ok,ok
+MA,Massachusetts,May 2025,11-9171,Funeral Home Managers,11-0000,280,23.6,0.078,0.88,105140,63760,79320,80790,106360,160050,ok,ok
+MA,Massachusetts,May 2025,11-9199,"Managers, All Other",11-0000,10630,4.7,2.922,0.73,198080,110970,146190,182950,227670,309290,ok,ok
+MA,Massachusetts,May 2025,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",13-0000,80,21,0.021,0.26,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,13-1020,Buyers and Purchasing Agents,13-0000,12820,3.3,3.526,1.12,94180,49500,66400,85970,115230,145890,ok,ok
+MA,Massachusetts,May 2025,13-1031,"Claims Adjusters, Examiners, and Investigators",13-0000,5070,5.1,1.393,0.67,88750,58650,72690,83740,103520,123260,ok,ok
+MA,Massachusetts,May 2025,13-1032,"Insurance Appraisers, Auto Damage",13-0000,680,18.9,0.187,2.52,83360,58130,64940,79930,94380,124640,ok,ok
+MA,Massachusetts,May 2025,13-1041,Compliance Officers,13-0000,13190,3.9,3.626,1.35,108310,63340,78390,102060,130230,161920,ok,ok
+MA,Massachusetts,May 2025,13-1051,Cost Estimators,13-0000,4520,18.2,1.242,0.86,104770,58870,75420,100840,127400,151780,ok,ok
+MA,Massachusetts,May 2025,13-1071,Human Resources Specialists,13-0000,27300,2.9,7.504,1.28,95400,57500,67050,85630,115060,145130,ok,ok
+MA,Massachusetts,May 2025,13-1075,Labor Relations Specialists,13-0000,1660,10.5,0.456,1.1,111180,61530,81610,111260,132350,161860,ok,ok
+MA,Massachusetts,May 2025,13-1081,Logisticians,13-0000,5250,3.9,1.443,0.89,106910,67100,79150,100360,131580,160320,ok,ok
+MA,Massachusetts,May 2025,13-1082,Project Management Specialists,13-0000,21960,4.9,6.037,0.88,120970,72800,87290,114190,144990,174840,ok,ok
+MA,Massachusetts,May 2025,13-1111,Management Analysts,13-0000,30060,5.4,8.264,1.43,147080,82490,103150,134720,168800,216940,ok,ok
+MA,Massachusetts,May 2025,13-1121,"Meeting, Convention, and Event Planners",13-0000,4640,8.9,1.276,1.39,81710,48960,58360,75740,98140,133980,ok,ok
+MA,Massachusetts,May 2025,13-1131,Fundraisers,13-0000,6160,4.6,1.694,2.37,84270,51580,60570,79060,102990,128260,ok,ok
+MA,Massachusetts,May 2025,13-1141,"Compensation, Benefits, and Job Analysis Specialists",13-0000,3390,8.7,0.933,1.29,104470,63230,76530,95890,125730,161120,ok,ok
+MA,Massachusetts,May 2025,13-1151,Training and Development Specialists,13-0000,12190,4.7,3.35,1.14,86070,41790,55990,80270,114970,129670,ok,ok
+MA,Massachusetts,May 2025,13-1161,Market Research Analysts and Marketing Specialists,13-0000,39710,2.8,10.916,1.89,108600,58090,77220,101810,133460,166970,ok,ok
+MA,Massachusetts,May 2025,13-1199,"Business Operations Specialists, All Other",13-0000,17910,2.6,4.924,0.7,98240,55550,69980,93270,114750,147200,ok,ok
+MA,Massachusetts,May 2025,13-2011,Accountants and Auditors,13-0000,46230,2.2,12.708,1.36,107170,70460,79370,99460,128560,160100,ok,ok
+MA,Massachusetts,May 2025,13-2020,Property Appraisers and Assessors,13-0000,1100,9.9,0.302,0.82,96010,57850,68920,91750,114430,135180,ok,ok
+MA,Massachusetts,May 2025,13-2031,Budget Analysts,13-0000,1280,3.6,0.351,1.16,97340,67860,80940,92260,109100,131770,ok,ok
+MA,Massachusetts,May 2025,13-2041,Credit Analysts,13-0000,1400,13.6,0.385,0.93,105580,64530,74110,97080,131030,173680,ok,ok
+MA,Massachusetts,May 2025,13-2051,Financial and Investment Analysts,13-0000,14790,6.3,4.067,1.75,129680,77940,90190,111040,161530,205320,ok,ok
+MA,Massachusetts,May 2025,13-2052,Personal Financial Advisors,13-0000,null,null,null,null,172430,58510,83810,125670,174720,478850,not_released,ok
+MA,Massachusetts,May 2025,13-2053,Insurance Underwriters,13-0000,2890,11.8,0.794,1.17,114510,70590,80250,106640,135110,167590,ok,ok
+MA,Massachusetts,May 2025,13-2054,Financial Risk Specialists,13-0000,1440,9.5,0.395,0.96,131690,71390,90070,130400,169610,209200,ok,ok
+MA,Massachusetts,May 2025,13-2061,Financial Examiners,13-0000,950,7.6,0.261,0.6,121700,68520,83660,111110,142880,187910,ok,ok
+MA,Massachusetts,May 2025,13-2071,Credit Counselors,13-0000,770,10.8,0.212,1.19,67020,44730,53340,63240,79350,94110,ok,ok
+MA,Massachusetts,May 2025,13-2072,Loan Officers,13-0000,4470,7.4,1.229,0.7,118390,64680,79760,101600,136940,198220,ok,ok
+MA,Massachusetts,May 2025,13-2081,"Tax Examiners and Collectors, and Revenue Agents",13-0000,1260,1.6,0.347,0.95,83490,50920,62230,75560,100480,123320,ok,ok
+MA,Massachusetts,May 2025,13-2082,Tax Preparers,13-0000,1500,20.5,0.411,0.84,58230,37560,38730,58400,68710,82700,ok,ok
+MA,Massachusetts,May 2025,13-2099,"Financial Specialists, All Other",13-0000,null,null,null,null,102670,61710,79020,99970,126730,155150,not_released,ok
+MA,Massachusetts,May 2025,15-1211,Computer Systems Analysts,15-0000,22160,5.9,6.093,1.82,128440,80000,100830,128240,159230,171650,ok,ok
+MA,Massachusetts,May 2025,15-1212,Information Security Analysts,15-0000,6100,11,1.677,1.37,151000,85790,107540,136550,176450,226190,ok,ok
+MA,Massachusetts,May 2025,15-1221,Computer and Information Research Scientists,15-0000,1760,11.2,0.485,2.03,170470,77160,119950,170510,214110,233340,ok,ok
+MA,Massachusetts,May 2025,15-1231,Computer Network Support Specialists,15-0000,1980,9.8,0.544,0.58,94110,60980,76900,88650,109730,134250,ok,ok
+MA,Massachusetts,May 2025,15-1232,Computer User Support Specialists,15-0000,17570,5.8,4.829,1.05,76460,48740,60540,75070,91020,104950,ok,ok
+MA,Massachusetts,May 2025,15-1241,Computer Network Architects,15-0000,6270,7.1,1.724,1.49,151770,98730,120020,155060,172800,211580,ok,ok
+MA,Massachusetts,May 2025,15-1242,Database Administrators,15-0000,2310,4.9,0.635,1.41,126790,69380,93280,129300,158010,173210,ok,ok
+MA,Massachusetts,May 2025,15-1243,Database Architects,15-0000,2690,7.7,0.739,1.71,163290,123670,134740,161650,183610,220910,ok,ok
+MA,Massachusetts,May 2025,15-1244,Network and Computer Systems Administrators,15-0000,8270,7,2.274,1.13,118240,76750,91950,110980,136810,168910,ok,ok
+MA,Massachusetts,May 2025,15-1251,Computer Programmers,15-0000,1930,7.9,0.529,0.89,127520,77060,101290,128390,141660,168310,ok,ok
+MA,Massachusetts,May 2025,15-1252,Software Developers,15-0000,48190,3.3,13.247,1.22,161730,102810,131370,165210,190280,213970,ok,ok
+MA,Massachusetts,May 2025,15-1253,Software Quality Assurance Analysts and Testers,15-0000,6640,10.1,1.826,1.52,117270,68050,80160,122210,141500,168000,ok,ok
+MA,Massachusetts,May 2025,15-1254,Web Developers,15-0000,1940,10.9,0.532,1.18,108520,54510,80520,98470,135110,169360,ok,ok
+MA,Massachusetts,May 2025,15-1255,Web and Digital Interface Designers,15-0000,2740,11.5,0.754,1.03,121470,71110,86420,113540,157510,178050,ok,ok
+MA,Massachusetts,May 2025,15-1299,"Computer Occupations, All Other",15-0000,6170,5.7,1.697,0.61,119020,55740,76230,109590,153900,183460,ok,ok
+MA,Massachusetts,May 2025,15-2011,Actuaries,15-0000,null,null,null,null,130710,83660,97860,126040,165040,179750,not_released,ok
+MA,Massachusetts,May 2025,15-2021,Mathematicians,15-0000,40,1.1,0.012,0.93,103600,72030,81510,104190,104600,149520,ok,ok
+MA,Massachusetts,May 2025,15-2031,Operations Research Analysts,15-0000,4200,10.6,1.156,1.66,104450,71550,80100,96500,130330,146000,ok,ok
+MA,Massachusetts,May 2025,15-2041,Statisticians,15-0000,2480,24.8,0.682,3.65,114210,76920,83710,96710,136140,174740,ok,ok
+MA,Massachusetts,May 2025,15-2051,Data Scientists,15-0000,9420,5.6,2.588,1.53,136460,81030,101940,131750,166180,206220,ok,ok
+MA,Massachusetts,May 2025,17-1011,"Architects, Except Landscape and Naval",17-0000,4590,10.7,1.261,1.84,119100,82920,87050,117330,127780,163060,ok,ok
+MA,Massachusetts,May 2025,17-1012,Landscape Architects,17-0000,500,25.6,0.138,1.1,90630,67320,79310,88000,91700,113760,ok,ok
+MA,Massachusetts,May 2025,17-1021,Cartographers and Photogrammetrists,17-0000,160,23.8,0.045,0.49,101430,72770,81480,92230,107930,158370,ok,ok
+MA,Massachusetts,May 2025,17-1022,Surveyors,17-0000,1290,14.2,0.355,1.09,92110,57880,76770,94590,104450,129410,ok,ok
+MA,Massachusetts,May 2025,17-2011,Aerospace Engineers,17-0000,990,3.9,0.273,0.63,145810,89750,98850,149470,182370,217840,ok,ok
+MA,Massachusetts,May 2025,17-2031,Bioengineers and Biomedical Engineers,17-0000,4740,9.4,1.303,8.63,126700,76750,100240,127570,150220,194760,ok,ok
+MA,Massachusetts,May 2025,17-2041,Chemical Engineers,17-0000,1460,8.5,0.401,2.96,118170,67810,85170,118000,133050,172170,ok,ok
+MA,Massachusetts,May 2025,17-2051,Civil Engineers,17-0000,9450,6.7,2.599,1.1,117330,78280,84570,106730,134810,165590,ok,ok
+MA,Massachusetts,May 2025,17-2061,Computer Hardware Engineers,17-0000,3150,11.5,0.866,1.76,177030,118490,132610,167600,210910,258880,ok,ok
+MA,Massachusetts,May 2025,17-2071,Electrical Engineers,17-0000,5040,9.2,1.386,1.08,130190,78140,100010,127720,160910,176470,ok,ok
+MA,Massachusetts,May 2025,17-2072,"Electronics Engineers, Except Computer",17-0000,5910,4.5,1.625,2.61,151960,95090,110080,138230,171540,215290,ok,ok
+MA,Massachusetts,May 2025,17-2081,Environmental Engineers,17-0000,1880,22,0.516,2.09,119180,77150,86370,115800,142130,172920,ok,ok
+MA,Massachusetts,May 2025,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-0000,750,35.5,0.207,1.5,143720,94340,102940,131210,175410,215430,ok,ok
+MA,Massachusetts,May 2025,17-2112,Industrial Engineers,17-0000,11470,5.2,3.154,1.34,117540,81960,96100,109420,132260,161870,ok,ok
+MA,Massachusetts,May 2025,17-2121,Marine Engineers and Naval Architects,17-0000,null,null,null,null,128580,92430,103310,114640,148620,168550,not_released,ok
+MA,Massachusetts,May 2025,17-2131,Materials Engineers,17-0000,1360,16.2,0.374,2.56,120350,77980,96930,114100,142960,167180,ok,ok
+MA,Massachusetts,May 2025,17-2141,Mechanical Engineers,17-0000,7680,5.6,2.112,1.11,121430,79570,96440,119300,140590,166480,ok,ok
+MA,Massachusetts,May 2025,17-2161,Nuclear Engineers,17-0000,210,18.4,0.059,0.6,134020,67750,103790,145760,161620,174710,ok,ok
+MA,Massachusetts,May 2025,17-2199,"Engineers, All Other",17-0000,2850,7.8,0.784,0.79,134140,83740,103010,131260,162470,187010,ok,ok
+MA,Massachusetts,May 2025,17-3011,Architectural and Civil Drafters,17-0000,2660,15.9,0.731,1.1,77110,56850,64270,76990,82460,102660,ok,ok
+MA,Massachusetts,May 2025,17-3012,Electrical and Electronics Drafters,17-0000,470,15.3,0.131,1.13,85060,55880,60280,87290,104430,120280,ok,ok
+MA,Massachusetts,May 2025,17-3013,Mechanical Drafters,17-0000,620,10.8,0.171,0.67,79060,52660,61990,75490,96570,108020,ok,ok
+MA,Massachusetts,May 2025,17-3019,"Drafters, All Other",17-0000,170,25,0.046,0.5,72180,50770,62590,72100,79980,97220,ok,ok
+MA,Massachusetts,May 2025,17-3021,Aerospace Engineering and Operations Technologists and Technicians,17-0000,30,3,0.009,0.13,81090,72890,72890,79420,83930,99740,ok,ok
+MA,Massachusetts,May 2025,17-3022,Civil Engineering Technologists and Technicians,17-0000,680,26,0.187,0.42,74120,49110,60790,71350,86030,106650,ok,ok
+MA,Massachusetts,May 2025,17-3023,Electrical and Electronic Engineering Technologists and Technicians,17-0000,4030,9.3,1.109,1.81,79000,57670,61910,77710,96630,105820,ok,ok
+MA,Massachusetts,May 2025,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17-0000,920,6.4,0.253,2.54,75050,51460,60240,73630,85770,99260,ok,ok
+MA,Massachusetts,May 2025,17-3025,Environmental Engineering Technologists and Technicians,17-0000,320,30.4,0.088,1.12,67340,47240,53810,66860,81940,84270,ok,ok
+MA,Massachusetts,May 2025,17-3026,Industrial Engineering Technologists and Technicians,17-0000,2070,5.9,0.568,1.17,70470,49950,59400,71830,79950,90970,ok,ok
+MA,Massachusetts,May 2025,17-3027,Mechanical Engineering Technologists and Technicians,17-0000,1310,13.2,0.361,1.55,71030,53200,61530,62390,82970,95460,ok,ok
+MA,Massachusetts,May 2025,17-3028,Calibration Technologists and Technicians,17-0000,380,22.7,0.105,0.98,74020,47840,58090,75500,84810,96400,ok,ok
+MA,Massachusetts,May 2025,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17-0000,990,15.7,0.273,0.71,70620,47280,51040,67450,83090,96930,ok,ok
+MA,Massachusetts,May 2025,17-3031,Surveying and Mapping Technicians,17-0000,640,14.5,0.176,0.47,65060,46370,50660,58730,76560,99990,ok,ok
+MA,Massachusetts,May 2025,19-1012,Food Scientists and Technologists,19-0000,420,36.1,0.116,1.38,116780,68990,87480,103580,149830,183260,ok,ok
+MA,Massachusetts,May 2025,19-1013,Soil and Plant Scientists,19-0000,null,null,null,null,77160,63110,67000,69880,89830,89830,not_released,ok
+MA,Massachusetts,May 2025,19-1021,Biochemists and Biophysicists,19-0000,14890,8.1,4.094,18.81,139290,79560,103040,131600,165150,208130,ok,ok
+MA,Massachusetts,May 2025,19-1022,Microbiologists,19-0000,1960,9.7,0.538,4.42,119700,75990,97930,122350,142220,162760,ok,ok
+MA,Massachusetts,May 2025,19-1023,Zoologists and Wildlife Biologists,19-0000,470,15,0.13,1.12,90780,45310,67710,84350,104080,138940,ok,ok
+MA,Massachusetts,May 2025,19-1029,"Biological Scientists, All Other",19-0000,2930,7,0.805,2.24,122930,69500,84390,107100,162180,194050,ok,ok
+MA,Massachusetts,May 2025,19-1031,Conservation Scientists,19-0000,760,9.2,0.21,1.26,82710,51070,65210,78740,92060,119460,ok,ok
+MA,Massachusetts,May 2025,19-1032,Foresters,19-0000,130,0.8,0.036,0.54,86020,63110,74680,89650,98760,105350,ok,ok
+MA,Massachusetts,May 2025,19-1041,Epidemiologists,19-0000,660,10.2,0.182,2.34,132230,81380,93870,115890,154840,212890,ok,ok
+MA,Massachusetts,May 2025,19-1042,"Medical Scientists, Except Epidemiologists",19-0000,17100,3.7,4.701,4.24,133550,77790,97520,128210,167940,208490,ok,ok
+MA,Massachusetts,May 2025,19-1099,"Life Scientists, All Other",19-0000,100,29.1,0.026,0.55,131800,83200,93600,125260,177250,195190,ok,ok
+MA,Massachusetts,May 2025,19-2012,Physicists,19-0000,1150,31.7,0.316,2.41,130250,82050,82070,106410,170190,213150,ok,ok
+MA,Massachusetts,May 2025,19-2021,Atmospheric and Space Scientists,19-0000,null,null,null,null,119440,71290,86550,108050,155150,166140,not_released,ok
+MA,Massachusetts,May 2025,19-2031,Chemists,19-0000,3430,9.8,0.944,1.77,128930,71120,85830,125000,164760,212210,ok,ok
+MA,Massachusetts,May 2025,19-2032,Materials Scientists,19-0000,890,41.6,0.245,4.5,133360,96310,103890,132600,145600,168390,ok,ok
+MA,Massachusetts,May 2025,19-2041,"Environmental Scientists and Specialists, Including Health",19-0000,2930,11.1,0.804,1.4,104760,63460,79890,100640,127310,139310,ok,ok
+MA,Massachusetts,May 2025,19-2042,"Geoscientists, Except Hydrologists and Geographers",19-0000,420,11.2,0.116,0.77,133880,80370,80940,108210,177130,227230,ok,ok
+MA,Massachusetts,May 2025,19-2043,Hydrologists,19-0000,50,40.2,0.014,0.38,119710,71510,106160,119350,132480,155150,ok,ok
+MA,Massachusetts,May 2025,19-2099,"Physical Scientists, All Other",19-0000,350,17.7,0.095,0.66,136900,74590,104600,138380,158630,195770,ok,ok
+MA,Massachusetts,May 2025,19-3011,Economists,19-0000,1030,19,0.284,2.48,133270,74080,91690,106380,155130,222610,ok,ok
+MA,Massachusetts,May 2025,19-3022,Survey Researchers,19-0000,160,34.9,0.044,0.83,68860,43730,55100,74890,81240,90780,ok,ok
+MA,Massachusetts,May 2025,19-3033,Clinical and Counseling Psychologists,19-0000,2860,12.4,0.787,1.61,124560,60250,84610,115180,159570,216570,ok,ok
+MA,Massachusetts,May 2025,19-3034,School Psychologists,19-0000,3300,7.9,0.908,2.21,100640,65990,80900,98670,111990,135280,ok,ok
+MA,Massachusetts,May 2025,19-3039,"Psychologists, All Other",19-0000,500,11.1,0.137,1.13,120730,59240,83250,129410,151570,168900,ok,ok
+MA,Massachusetts,May 2025,19-3041,Sociologists,19-0000,250,12.6,0.068,4.71,123460,65400,83880,106530,145360,190440,ok,ok
+MA,Massachusetts,May 2025,19-3051,Urban and Regional Planners,19-0000,1540,8.5,0.422,1.48,100590,69150,82020,99780,115800,134310,ok,ok
+MA,Massachusetts,May 2025,19-3091,Anthropologists and Archeologists,19-0000,80,28.5,0.022,0.38,107710,78750,85990,121300,121710,126420,ok,ok
+MA,Massachusetts,May 2025,19-3093,Historians,19-0000,null,null,null,null,112310,59330,104210,121710,121710,127160,not_released,ok
+MA,Massachusetts,May 2025,19-3094,Political Scientists,19-0000,170,20.1,0.046,1.3,139440,76010,106960,133930,170110,217820,ok,ok
+MA,Massachusetts,May 2025,19-3099,"Social Scientists and Related Workers, All Other",19-0000,820,22.2,0.227,0.95,118840,78530,91750,105640,144340,169520,ok,ok
+MA,Massachusetts,May 2025,19-4013,Food Science Technicians,19-0000,260,12.6,0.071,0.75,56530,44900,44900,56850,63170,73300,ok,ok
+MA,Massachusetts,May 2025,19-4021,Biological Technicians,19-0000,8430,5.5,2.318,5.18,67420,49880,51190,62070,81450,94760,ok,ok
+MA,Massachusetts,May 2025,19-4031,Chemical Technicians,19-0000,1780,17.9,0.489,1.32,70220,48730,59010,67570,81880,92720,ok,ok
+MA,Massachusetts,May 2025,19-4042,"Environmental Science and Protection Technicians, Including Health",19-0000,330,19.3,0.09,0.4,60330,43990,48260,59330,64720,81340,ok,ok
+MA,Massachusetts,May 2025,19-4043,"Geological Technicians, Except Hydrologic Technicians",19-0000,40,3.8,0.01,0.23,68910,51660,54270,61630,78900,98140,ok,ok
+MA,Massachusetts,May 2025,19-4044,Hydrologic Technicians,19-0000,60,28.7,0.017,0.95,75380,50920,60910,73820,92490,98000,ok,ok
+MA,Massachusetts,May 2025,19-4051,Nuclear Technicians,19-0000,50,47.8,0.014,0.34,103050,83710,83750,113390,113400,113410,ok,ok
+MA,Massachusetts,May 2025,19-4061,Social Science Research Assistants,19-0000,null,null,null,null,63310,49500,49980,63480,71700,82130,not_released,ok
+MA,Massachusetts,May 2025,19-4071,Forest and Conservation Technicians,19-0000,null,null,null,null,58660,51730,53210,56480,62620,72130,not_released,ok
+MA,Massachusetts,May 2025,19-4092,Forensic Science Technicians,19-0000,290,0.2,0.08,0.65,86260,64520,70650,79320,97360,120000,ok,ok
+MA,Massachusetts,May 2025,19-4099,"Life, Physical, and Social Science Technicians, All Other",19-0000,1140,20.7,0.313,0.66,69130,46960,55090,63820,71280,108850,ok,ok
+MA,Massachusetts,May 2025,19-5011,Occupational Health and Safety Specialists,19-0000,3390,5,0.931,1.03,106540,68490,83260,103970,127320,153770,ok,ok
+MA,Massachusetts,May 2025,19-5012,Occupational Health and Safety Technicians,19-0000,290,13.6,0.08,0.41,73150,51840,55160,68730,89920,99270,ok,ok
+MA,Massachusetts,May 2025,21-1012,"Educational, Guidance, and Career Counselors and Advisors",21-0000,11460,1.8,3.151,1.39,85660,59460,65810,79930,100580,117630,ok,ok
+MA,Massachusetts,May 2025,21-1013,Marriage and Family Therapists,21-0000,600,27.4,0.165,0.38,80880,49070,61050,67370,90980,128490,ok,ok
+MA,Massachusetts,May 2025,21-1015,Rehabilitation Counselors,21-0000,5760,11.3,1.585,2.6,59030,38770,43330,47320,73190,101760,ok,ok
+MA,Massachusetts,May 2025,21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",21-0000,18190,5.7,4.999,1.58,65380,43180,47540,59890,76950,96200,ok,ok
+MA,Massachusetts,May 2025,21-1019,"Counselors, All Other",21-0000,140,12.1,0.039,0.21,80240,51830,56890,58240,84040,185160,ok,ok
+MA,Massachusetts,May 2025,21-1021,"Child, Family, and School Social Workers",21-0000,10900,4.2,2.997,1.19,77060,48140,61150,75570,94650,104060,ok,ok
+MA,Massachusetts,May 2025,21-1022,Healthcare Social Workers,21-0000,7220,5.5,1.984,1.64,77000,51270,60300,76440,92110,102070,ok,ok
+MA,Massachusetts,May 2025,21-1023,Mental Health and Substance Abuse Social Workers,21-0000,7440,6.6,2.046,2.4,69710,48260,53970,62500,78750,100670,ok,ok
+MA,Massachusetts,May 2025,21-1029,"Social Workers, All Other",21-0000,540,1.8,0.149,0.37,100020,71980,88650,101280,116190,125010,ok,ok
+MA,Massachusetts,May 2025,21-1091,Health Education Specialists,21-0000,2420,12,0.666,1.58,70370,37460,43100,57510,85740,142860,ok,ok
+MA,Massachusetts,May 2025,21-1092,Probation Officers and Correctional Treatment Specialists,21-0000,1200,0.1,0.329,0.57,92910,61160,74210,94590,114420,114660,ok,ok
+MA,Massachusetts,May 2025,21-1093,Social and Human Service Assistants,21-0000,9180,7.4,2.523,0.9,50430,39440,43960,47130,57320,63670,ok,ok
+MA,Massachusetts,May 2025,21-1094,Community Health Workers,21-0000,2970,13.4,0.817,2.06,56940,42910,47280,55560,61520,74840,ok,ok
+MA,Massachusetts,May 2025,21-1099,"Community and Social Service Specialists, All Other",21-0000,1480,13.9,0.407,0.59,60060,39000,44820,57360,72230,86260,ok,ok
+MA,Massachusetts,May 2025,21-2011,Clergy,21-0000,840,11.6,0.232,0.63,73510,51600,61250,72190,78530,98650,ok,ok
+MA,Massachusetts,May 2025,21-2021,"Directors, Religious Activities and Education",21-0000,160,22.1,0.043,0.3,69000,57820,61380,62930,75830,80160,ok,ok
+MA,Massachusetts,May 2025,23-1011,Lawyers,23-0000,23560,5.1,6.477,1.33,205980,82100,119960,176680,282080,374410,ok,ok
+MA,Massachusetts,May 2025,23-1012,Judicial Law Clerks,23-0000,500,0.3,0.138,1.61,132380,82210,143350,143350,143350,143350,ok,ok
+MA,Massachusetts,May 2025,23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",23-0000,270,0.9,0.073,0.7,124550,82620,96910,113750,159830,183350,ok,ok
+MA,Massachusetts,May 2025,23-1023,"Judges, Magistrate Judges, and Magistrates",23-0000,610,0,0.167,1.08,201060,155450,186170,221710,221710,221710,ok,ok
+MA,Massachusetts,May 2025,23-2011,Paralegals and Legal Assistants,23-0000,7800,13.1,2.145,0.85,81160,49770,62580,77640,96820,117480,ok,ok
+MA,Massachusetts,May 2025,23-2093,"Title Examiners, Abstractors, and Searchers",23-0000,null,null,null,null,70970,52990,53080,69100,95680,95690,not_released,ok
+MA,Massachusetts,May 2025,23-2099,"Legal Support Workers, All Other",23-0000,null,null,null,null,93230,53330,62320,77830,111420,161540,not_released,ok
+MA,Massachusetts,May 2025,25-1011,"Business Teachers, Postsecondary",25-0000,4190,1.4,1.153,2.18,132880,59760,80430,103110,169010,238900,ok,ok
+MA,Massachusetts,May 2025,25-1021,"Computer Science Teachers, Postsecondary",25-0000,1490,2.7,0.409,1.79,128720,66120,85380,128030,163640,208700,ok,ok
+MA,Massachusetts,May 2025,25-1022,"Mathematical Science Teachers, Postsecondary",25-0000,1880,1.9,0.516,1.68,100910,60490,68350,85490,116170,165490,ok,ok
+MA,Massachusetts,May 2025,25-1031,"Architecture Teachers, Postsecondary",25-0000,430,7,0.119,2.4,121350,63330,82840,102920,162490,209940,ok,ok
+MA,Massachusetts,May 2025,25-1032,"Engineering Teachers, Postsecondary",25-0000,2610,1.2,0.718,2.77,150040,80700,100880,134850,177760,275340,ok,ok
+MA,Massachusetts,May 2025,25-1042,"Biological Science Teachers, Postsecondary",25-0000,2060,2.1,0.566,1.75,134120,64180,78980,105050,163500,296440,ok,ok
+MA,Massachusetts,May 2025,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",25-0000,470,8.2,0.129,2.03,133090,64150,83430,108930,178480,217460,ok,ok
+MA,Massachusetts,May 2025,25-1052,"Chemistry Teachers, Postsecondary",25-0000,820,0.9,0.224,1.74,130570,66080,80930,108270,168200,216670,ok,ok
+MA,Massachusetts,May 2025,25-1053,"Environmental Science Teachers, Postsecondary",25-0000,280,1.2,0.076,1.76,114410,64730,80460,106110,139510,170270,ok,ok
+MA,Massachusetts,May 2025,25-1054,"Physics Teachers, Postsecondary",25-0000,680,0.5,0.188,2.23,133680,63660,80650,111280,167490,213120,ok,ok
+MA,Massachusetts,May 2025,25-1061,"Anthropology and Archeology Teachers, Postsecondary",25-0000,250,0.6,0.069,2.05,119880,57960,81360,107390,136130,183750,ok,ok
+MA,Massachusetts,May 2025,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",25-0000,610,0.1,0.168,2.31,111240,66470,81450,100470,131680,170300,ok,ok
+MA,Massachusetts,May 2025,25-1063,"Economics Teachers, Postsecondary",25-0000,750,0.1,0.205,2.76,185980,84380,110130,164410,214310,346200,ok,ok
+MA,Massachusetts,May 2025,25-1064,"Geography Teachers, Postsecondary",25-0000,60,1.7,0.016,0.75,103720,66930,80650,101870,128200,160020,ok,ok
+MA,Massachusetts,May 2025,25-1065,"Political Science Teachers, Postsecondary",25-0000,920,0.2,0.252,2.31,137010,78380,99500,128150,164850,219420,ok,ok
+MA,Massachusetts,May 2025,25-1066,"Psychology Teachers, Postsecondary",25-0000,2640,1.9,0.726,2.72,96600,59350,68530,82930,104390,138250,ok,ok
+MA,Massachusetts,May 2025,25-1067,"Sociology Teachers, Postsecondary",25-0000,580,0.8,0.16,2.1,109340,61200,75420,96790,132760,195940,ok,ok
+MA,Massachusetts,May 2025,25-1069,"Social Sciences Teachers, Postsecondary, All Other",25-0000,410,1,0.114,1.06,121350,61180,67570,98260,163800,217010,ok,ok
+MA,Massachusetts,May 2025,25-1071,"Health Specialties Teachers, Postsecondary",25-0000,10250,1.9,2.817,1.98,166200,65910,96890,134520,216590,333290,ok,ok
+MA,Massachusetts,May 2025,25-1072,"Nursing Instructors and Teachers, Postsecondary",25-0000,2280,1.4,0.626,1.25,95000,62200,75210,85130,108590,138240,ok,ok
+MA,Massachusetts,May 2025,25-1081,"Education Teachers, Postsecondary",25-0000,2050,1.6,0.564,1.44,93170,49990,65160,79980,104760,137750,ok,ok
+MA,Massachusetts,May 2025,25-1082,"Library Science Teachers, Postsecondary",25-0000,50,0.3,0.014,0.62,82520,49750,64440,80850,104740,106670,ok,ok
+MA,Massachusetts,May 2025,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",25-0000,380,0.9,0.105,1.24,91730,49820,62770,79500,102790,137780,ok,ok
+MA,Massachusetts,May 2025,25-1112,"Law Teachers, Postsecondary",25-0000,840,1.3,0.232,1.8,168350,79480,102200,132010,226930,323630,ok,ok
+MA,Massachusetts,May 2025,25-1113,"Social Work Teachers, Postsecondary",25-0000,650,7.3,0.177,2.19,96560,52520,58880,79710,108090,136250,ok,ok
+MA,Massachusetts,May 2025,25-1121,"Art, Drama, and Music Teachers, Postsecondary",25-0000,4960,4.3,1.364,2.27,102790,59920,65760,85820,111710,156070,ok,ok
+MA,Massachusetts,May 2025,25-1122,"Communications Teachers, Postsecondary",25-0000,1110,0.4,0.306,1.62,97440,60730,65920,82610,100940,161740,ok,ok
+MA,Massachusetts,May 2025,25-1123,"English Language and Literature Teachers, Postsecondary",25-0000,2900,1.1,0.796,2.14,103940,62050,70720,83980,118120,175580,ok,ok
+MA,Massachusetts,May 2025,25-1124,"Foreign Language and Literature Teachers, Postsecondary",25-0000,960,0.5,0.264,2.07,109700,63100,81480,98750,127190,164060,ok,ok
+MA,Massachusetts,May 2025,25-1125,"History Teachers, Postsecondary",25-0000,780,0.7,0.214,1.77,114880,63940,80330,104900,134410,173230,ok,ok
+MA,Massachusetts,May 2025,25-1126,"Philosophy and Religion Teachers, Postsecondary",25-0000,890,4.6,0.245,1.86,109400,51620,64060,98360,133890,173280,ok,ok
+MA,Massachusetts,May 2025,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",25-0000,290,1.6,0.081,0.99,94740,62270,70490,87960,104340,140280,ok,ok
+MA,Massachusetts,May 2025,25-1194,"Career/Technical Education Teachers, Postsecondary",25-0000,1660,14,0.456,0.62,82620,49150,62120,78780,99150,122830,ok,ok
+MA,Massachusetts,May 2025,25-1199,"Postsecondary Teachers, All Other",25-0000,1790,0.8,0.492,0.51,116540,62380,82590,94480,129490,208240,ok,ok
+MA,Massachusetts,May 2025,25-2011,"Preschool Teachers, Except Special Education",25-0000,18710,7.4,5.144,1.67,48460,35890,37820,45890,48580,60440,ok,ok
+MA,Massachusetts,May 2025,25-2012,"Kindergarten Teachers, Except Special Education",25-0000,1980,9.1,0.545,0.78,84950,58900,65150,84100,100840,106600,ok,ok
+MA,Massachusetts,May 2025,25-2021,"Elementary School Teachers, Except Special Education",25-0000,29930,1.8,8.227,0.92,88720,60620,76990,94000,102180,118190,ok,ok
+MA,Massachusetts,May 2025,25-2022,"Middle School Teachers, Except Special and Career/Technical Education",25-0000,16570,3.7,4.555,1.14,87300,60590,76190,89450,100980,107610,ok,ok
+MA,Massachusetts,May 2025,25-2023,"Career/Technical Education Teachers, Middle School",25-0000,null,null,null,null,89300,51960,67660,93260,107440,125480,not_released,ok
+MA,Massachusetts,May 2025,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",25-0000,28460,2.3,7.823,1.14,90270,61500,77890,95260,102530,122660,ok,ok
+MA,Massachusetts,May 2025,25-2032,"Career/Technical Education Teachers, Secondary School",25-0000,3130,8.4,0.861,1.2,93230,77530,80930,98020,103310,111560,ok,ok
+MA,Massachusetts,May 2025,25-2051,"Special Education Teachers, Preschool",25-0000,710,11.2,0.195,1.03,94860,62400,78540,99070,109510,126340,ok,ok
+MA,Massachusetts,May 2025,25-2052,"Special Education Teachers, Kindergarten and Elementary School",25-0000,7220,1.9,1.984,1.18,89550,61200,76370,91350,101240,127210,ok,ok
+MA,Massachusetts,May 2025,25-2057,"Special Education Teachers, Middle School",25-0000,3110,4.7,0.856,1.4,87040,60080,74470,84550,99780,108440,ok,ok
+MA,Massachusetts,May 2025,25-2058,"Special Education Teachers, Secondary School",25-0000,5470,4.8,1.504,1.43,88250,60390,72670,83890,101520,124080,ok,ok
+MA,Massachusetts,May 2025,25-2059,"Special Education Teachers, All Other",25-0000,300,8.3,0.081,0.37,81220,56800,65610,78440,96370,108850,ok,ok
+MA,Massachusetts,May 2025,25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-0000,1420,14,0.392,1.63,68650,48490,52110,62290,83380,98890,ok,ok
+MA,Massachusetts,May 2025,25-3021,Self-Enrichment Teachers,25-0000,11950,9.2,3.285,1.54,63000,36550,39430,49430,78380,108120,ok,ok
+MA,Massachusetts,May 2025,25-3031,"Substitute Teachers, Short-Term",25-0000,8410,4.5,2.313,0.69,45830,33590,36600,41350,48600,58930,ok,ok
+MA,Massachusetts,May 2025,25-3041,Tutors,25-0000,4610,9.7,1.267,1.13,65210,34630,43490,60900,80790,100960,ok,ok
+MA,Massachusetts,May 2025,25-3099,"Teachers and Instructors, All Other",25-0000,830,25.2,0.229,0.31,89220,49920,71780,100610,101220,114300,ok,ok
+MA,Massachusetts,May 2025,25-4011,Archivists,25-0000,270,5.9,0.073,1.42,81700,52240,64290,78180,100360,117080,ok,ok
+MA,Massachusetts,May 2025,25-4012,Curators,25-0000,370,6.2,0.103,1.32,81450,41310,58380,77790,97880,130480,ok,ok
+MA,Massachusetts,May 2025,25-4013,Museum Technicians and Conservators,25-0000,440,14.2,0.122,1.54,61720,45740,49590,58530,67610,83470,ok,ok
+MA,Massachusetts,May 2025,25-4022,Librarians and Media Collections Specialists,25-0000,4980,1.7,1.369,1.59,80220,50260,62550,78540,97710,109060,ok,ok
+MA,Massachusetts,May 2025,25-4031,Library Technicians,25-0000,1910,3.8,0.524,1.19,53100,38450,45890,50430,61090,64980,ok,ok
+MA,Massachusetts,May 2025,25-9021,Farm and Home Management Educators,25-0000,40,24.1,0.011,0.21,70040,63040,66800,66920,70620,86040,ok,ok
+MA,Massachusetts,May 2025,25-9031,Instructional Coordinators,25-0000,6170,3.6,1.697,1.16,92600,53880,66300,95320,112100,129480,ok,ok
+MA,Massachusetts,May 2025,25-9044,"Teaching Assistants, Postsecondary",25-0000,3040,0.3,0.836,0.79,54020,32890,39260,56370,62690,77920,ok,ok
+MA,Massachusetts,May 2025,25-9045,"Teaching Assistants, Except Postsecondary",25-0000,39210,2.7,10.779,1.18,42970,31200,32870,39380,48870,59970,ok,ok
+MA,Massachusetts,May 2025,25-9099,"Educational Instruction and Library Workers, All Other",25-0000,960,3,0.265,0.35,63140,38150,41960,62630,78270,94930,ok,ok
+MA,Massachusetts,May 2025,27-1011,Art Directors,27-0000,1850,23.2,0.508,1.49,147040,78470,101290,149320,169710,218270,ok,ok
+MA,Massachusetts,May 2025,27-1012,Craft Artists,27-0000,50,49.6,0.013,0.44,53620,38320,39870,47660,59810,76010,ok,ok
+MA,Massachusetts,May 2025,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-0000,140,42.5,0.038,0.53,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,27-1014,Special Effects Artists and Animators,27-0000,null,null,null,null,84280,57900,63090,80640,98370,109820,not_released,ok
+MA,Massachusetts,May 2025,27-1019,"Artists and Related Workers, All Other",27-0000,50,4.9,0.013,0.29,93810,51530,60840,94890,120430,143210,ok,ok
+MA,Massachusetts,May 2025,27-1021,Commercial and Industrial Designers,27-0000,1240,10.2,0.34,1.58,106940,76010,81570,101720,128200,149990,ok,ok
+MA,Massachusetts,May 2025,27-1022,Fashion Designers,27-0000,540,12.4,0.149,1.08,113650,57710,81390,103520,138880,174250,ok,ok
+MA,Massachusetts,May 2025,27-1023,Floral Designers,27-0000,870,9.6,0.239,0.92,48690,37020,39400,46460,54450,62470,ok,ok
+MA,Massachusetts,May 2025,27-1024,Graphic Designers,27-0000,4450,6.1,1.223,0.96,79690,47830,60030,76710,95990,108970,ok,ok
+MA,Massachusetts,May 2025,27-1025,Interior Designers,27-0000,1580,11.9,0.435,0.95,83670,52230,61640,80110,95410,123100,ok,ok
+MA,Massachusetts,May 2025,27-1026,Merchandise Displayers and Window Trimmers,27-0000,3360,8.5,0.925,0.87,47200,34390,37050,43290,51590,69250,ok,ok
+MA,Massachusetts,May 2025,27-1027,Set and Exhibit Designers,27-0000,230,21.8,0.062,0.91,79580,51870,56400,74540,100200,123640,ok,ok
+MA,Massachusetts,May 2025,27-2011,Actors,27-0000,660,24,0.181,0.51,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,27-2012,Producers and Directors,27-0000,3440,6.8,0.945,1.03,94850,45820,60220,80970,105940,150140,ok,ok
+MA,Massachusetts,May 2025,27-2022,Coaches and Scouts,27-0000,6310,13.3,1.736,1.08,69940,35940,41220,55130,85440,109380,ok,ok
+MA,Massachusetts,May 2025,27-2023,"Umpires, Referees, and Other Sports Officials",27-0000,250,27.7,0.069,0.68,62540,32600,33170,48400,91570,126090,ok,ok
+MA,Massachusetts,May 2025,27-2041,Music Directors and Composers,27-0000,340,11.9,0.094,1.16,93170,51120,63800,78620,114150,150380,ok,ok
+MA,Massachusetts,May 2025,27-2042,Musicians and Singers,27-0000,680,13.6,0.186,0.8,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,27-2091,"Disc Jockeys, Except Radio",27-0000,150,19.5,0.04,0.79,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",27-0000,140,46.2,0.038,0.36,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,27-3011,Broadcast Announcers and Radio Disc Jockeys,27-0000,280,16.3,0.076,0.55,98750,36260,45730,60200,108360,213970,ok,ok
+MA,Massachusetts,May 2025,27-3023,"News Analysts, Reporters, and Journalists",27-0000,810,22.8,0.222,0.88,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,27-3031,Public Relations Specialists,27-0000,6760,6.1,1.858,1.02,90400,51710,61410,79660,107220,139240,ok,ok
+MA,Massachusetts,May 2025,27-3041,Editors,27-0000,3100,10.4,0.851,1.44,89740,47320,61490,83170,103620,136360,ok,ok
+MA,Massachusetts,May 2025,27-3042,Technical Writers,27-0000,1850,9.2,0.508,1.74,114610,71120,86060,109200,134620,165060,ok,ok
+MA,Massachusetts,May 2025,27-3043,Writers and Authors,27-0000,1350,10.5,0.371,1.2,94580,58910,67770,85260,108030,138950,ok,ok
+MA,Massachusetts,May 2025,27-3091,Interpreters and Translators,27-0000,2280,11.9,0.627,1.87,79140,49650,58050,72750,93010,131900,ok,ok
+MA,Massachusetts,May 2025,27-3092,Court Reporters and Simultaneous Captioners,27-0000,50,8.5,0.014,0.17,73870,46080,46120,79940,90640,91350,ok,ok
+MA,Massachusetts,May 2025,27-3099,"Media and Communication Workers, All Other",27-0000,null,null,null,null,64140,36400,50920,63940,74710,87640,not_released,ok
+MA,Massachusetts,May 2025,27-4012,Broadcast Technicians,27-0000,560,16.5,0.154,1.14,56340,36370,39810,47260,65400,82920,ok,ok
+MA,Massachusetts,May 2025,27-4014,Sound Engineering Technicians,27-0000,200,18.7,0.055,0.66,82510,35540,51190,63250,113710,134480,ok,ok
+MA,Massachusetts,May 2025,27-4015,Lighting Technicians,27-0000,null,null,null,null,65850,52890,57160,60110,65050,82680,not_released,ok
+MA,Massachusetts,May 2025,27-4021,Photographers,27-0000,830,17.8,0.229,0.69,71300,38480,43410,57990,98490,112760,ok,ok
+MA,Massachusetts,May 2025,27-4031,"Camera Operators, Television, Video, and Film",27-0000,370,20,0.102,0.73,79290,31300,49020,61320,103020,133760,ok,ok
+MA,Massachusetts,May 2025,27-4032,Film and Video Editors,27-0000,550,16,0.151,0.92,95530,56880,78730,92130,112910,129330,ok,ok
+MA,Massachusetts,May 2025,27-4099,"Media and Communication Equipment Workers, All Other",27-0000,90,10.8,0.024,0.3,76160,34040,49490,60960,103710,131290,ok,ok
+MA,Massachusetts,May 2025,29-1011,Chiropractors,29-0000,780,13.6,0.213,0.84,93800,53520,71790,75940,125380,155580,ok,ok
+MA,Massachusetts,May 2025,29-1021,"Dentists, General",29-0000,2780,20.1,0.765,0.96,223200,101470,157670,181600,315990,417670,ok,ok
+MA,Massachusetts,May 2025,29-1029,"Dentists, All Other Specialists",29-0000,60,1.6,0.015,0.45,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,29-1031,Dietitians and Nutritionists,29-0000,2860,25.2,0.787,1.58,82390,63310,71540,76660,94530,107150,ok,ok
+MA,Massachusetts,May 2025,29-1041,Optometrists,29-0000,950,15.7,0.262,0.95,152550,95780,130480,151730,166920,196470,ok,ok
+MA,Massachusetts,May 2025,29-1051,Pharmacists,29-0000,7230,5.5,1.986,0.96,138660,113710,133460,138170,155490,164500,ok,ok
+MA,Massachusetts,May 2025,29-1071,Physician Assistants,29-0000,4470,4.9,1.23,1.18,146480,65220,128020,142410,169980,204140,ok,ok
+MA,Massachusetts,May 2025,29-1081,Podiatrists,29-0000,170,18.3,0.047,0.76,217080,79380,102160,217700,324990,350120,ok,ok
+MA,Massachusetts,May 2025,29-1122,Occupational Therapists,29-0000,6510,7.7,1.791,1.71,99730,73140,83960,100930,110180,127380,ok,ok
+MA,Massachusetts,May 2025,29-1123,Physical Therapists,29-0000,6850,7.8,1.882,1.09,106900,82760,94750,103790,121710,130220,ok,ok
+MA,Massachusetts,May 2025,29-1124,Radiation Therapists,29-0000,330,1.7,0.091,0.83,112170,83160,97550,106300,126790,133820,ok,ok
+MA,Massachusetts,May 2025,29-1125,Recreational Therapists,29-0000,210,3.8,0.059,0.61,66680,49090,53260,62820,72760,94890,ok,ok
+MA,Massachusetts,May 2025,29-1126,Respiratory Therapists,29-0000,2220,2.9,0.611,0.68,100580,80330,86120,102170,107930,123930,ok,ok
+MA,Massachusetts,May 2025,29-1127,Speech-Language Pathologists,29-0000,5290,6.7,1.455,1.23,101890,71030,83090,101310,119100,129730,ok,ok
+MA,Massachusetts,May 2025,29-1128,Exercise Physiologists,29-0000,180,1.1,0.049,0.9,72210,60060,62410,65950,77500,97370,ok,ok
+MA,Massachusetts,May 2025,29-1129,"Therapists, All Other",29-0000,170,16.7,0.046,0.31,72570,55000,57540,69050,83210,97890,ok,ok
+MA,Massachusetts,May 2025,29-1131,Veterinarians,29-0000,1920,4.9,0.527,0.98,157520,96320,121670,140260,175250,260010,ok,ok
+MA,Massachusetts,May 2025,29-1141,Registered Nurses,29-0000,88200,1.5,24.247,1.12,117960,80310,87460,104550,136110,174510,ok,ok
+MA,Massachusetts,May 2025,29-1151,Nurse Anesthetists,29-0000,500,22.7,0.136,0.41,303310,199760,253120,295550,356000,391170,ok,ok
+MA,Massachusetts,May 2025,29-1161,Nurse Midwives,29-0000,280,5.9,0.077,1.5,162420,120230,140030,159800,176340,204000,ok,ok
+MA,Massachusetts,May 2025,29-1171,Nurse Practitioners,29-0000,8070,5.6,2.218,1.07,152320,111950,132460,142440,168100,207710,ok,ok
+MA,Massachusetts,May 2025,29-1181,Audiologists,29-0000,220,32.5,0.06,0.69,100890,73420,86780,104130,116440,129770,ok,ok
+MA,Massachusetts,May 2025,29-1211,Anesthesiologists,29-0000,1100,16.3,0.302,1.21,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,29-1212,Cardiologists,29-0000,510,20.9,0.14,1.26,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,29-1214,Emergency Medicine Physicians,29-0000,890,1.1,0.244,1.15,370880,175710,319420,356230,483750,530920,ok,ok
+MA,Massachusetts,May 2025,29-1215,Family Medicine Physicians,29-0000,3540,10.2,0.973,1.41,271340,107650,215730,277490,361670,384390,ok,ok
+MA,Massachusetts,May 2025,29-1216,General Internal Medicine Physicians,29-0000,1590,20.5,0.437,1.01,253080,84750,176710,285250,309560,369930,ok,ok
+MA,Massachusetts,May 2025,29-1218,Obstetricians and Gynecologists,29-0000,620,33.5,0.172,1.26,289280,96960,228130,272240,339260,441200,ok,ok
+MA,Massachusetts,May 2025,29-1221,"Pediatricians, General",29-0000,2310,7.3,0.636,2.51,228920,125170,172100,221170,323510,324950,ok,ok
+MA,Massachusetts,May 2025,29-1222,"Physicians, Pathologists",29-0000,320,27.4,0.088,1.24,281410,97640,236560,285240,330960,459920,ok,ok
+MA,Massachusetts,May 2025,29-1223,Psychiatrists,29-0000,1060,7.7,0.292,1.62,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,29-1224,Radiologists,29-0000,null,null,null,null,391790,113600,371090,426560,459750,591970,not_released,ok
+MA,Massachusetts,May 2025,29-1229,"Physicians, All Other",29-0000,8210,4.8,2.258,1.02,247150,77630,85550,236580,384490,431300,ok,ok
+MA,Massachusetts,May 2025,29-1241,"Ophthalmologists, Except Pediatric",29-0000,450,27.7,0.123,2.14,297280,115240,226790,325200,346910,420470,ok,ok
+MA,Massachusetts,May 2025,29-1242,"Orthopedic Surgeons, Except Pediatric",29-0000,null,null,null,null,368800,200220,386670,392300,392300,392380,not_released,ok
+MA,Massachusetts,May 2025,29-1249,"Surgeons, All Other",29-0000,770,10,0.212,1.31,346190,75980,90370,387150,516620,561250,ok,ok
+MA,Massachusetts,May 2025,29-1291,Acupuncturists,29-0000,null,null,null,null,102460,52970,61830,93360,139050,149080,not_released,ok
+MA,Massachusetts,May 2025,29-1292,Dental Hygienists,29-0000,6850,14.1,1.883,1.31,102160,93510,98150,100640,106220,117380,ok,ok
+MA,Massachusetts,May 2025,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29-0000,600,0.3,0.165,0.9,110640,62670,80750,106060,135260,164530,ok,ok
+MA,Massachusetts,May 2025,29-2010,Clinical Laboratory Technologists and Technicians,29-0000,10850,11.4,2.982,1.39,77230,47360,54020,79120,99130,105750,ok,ok
+MA,Massachusetts,May 2025,29-2031,Cardiovascular Technologists and Technicians,29-0000,1110,4.4,0.306,0.75,100280,47690,63270,105580,127300,134390,ok,ok
+MA,Massachusetts,May 2025,29-2032,Diagnostic Medical Sonographers,29-0000,2190,7.4,0.602,1.04,113410,89190,102170,107480,127650,133480,ok,ok
+MA,Massachusetts,May 2025,29-2033,Nuclear Medicine Technologists,29-0000,380,1.8,0.104,0.95,117860,88470,105490,118250,131800,148900,ok,ok
+MA,Massachusetts,May 2025,29-2034,Radiologic Technologists and Technicians,29-0000,5500,5.5,1.512,1.02,101910,75350,83200,103620,122900,131940,ok,ok
+MA,Massachusetts,May 2025,29-2035,Magnetic Resonance Imaging Technologists,29-0000,1490,13.1,0.41,1.47,111980,62360,99320,110600,132870,146880,ok,ok
+MA,Massachusetts,May 2025,29-2036,Medical Dosimetrists,29-0000,60,2.6,0.016,0.75,150160,111550,133690,140990,174450,174810,ok,ok
+MA,Massachusetts,May 2025,29-2042,Emergency Medical Technicians,29-0000,4550,3.5,1.252,1.08,52500,40140,46880,50230,54000,69830,ok,ok
+MA,Massachusetts,May 2025,29-2043,Paramedics,29-0000,1860,6.3,0.511,0.79,70260,60410,63770,66340,77330,84540,ok,ok
+MA,Massachusetts,May 2025,29-2051,Dietetic Technicians,29-0000,910,15.3,0.249,1.23,43420,37210,38350,39760,47140,54820,ok,ok
+MA,Massachusetts,May 2025,29-2052,Pharmacy Technicians,29-0000,10150,5.2,2.79,0.92,50680,37980,39050,46470,59580,71070,ok,ok
+MA,Massachusetts,May 2025,29-2053,Psychiatric Technicians,29-0000,5340,9.4,1.468,1.45,53840,40140,46780,52000,59610,66330,ok,ok
+MA,Massachusetts,May 2025,29-2055,Surgical Technologists,29-0000,2220,5.4,0.611,0.81,83820,60350,68830,80870,98300,109550,ok,ok
+MA,Massachusetts,May 2025,29-2056,Veterinary Technologists and Technicians,29-0000,3990,7.3,1.098,1.32,53170,37500,47670,49540,60240,64470,ok,ok
+MA,Massachusetts,May 2025,29-2057,Ophthalmic Medical Technicians,29-0000,2330,23.7,0.64,1.4,55210,38480,46580,49750,64570,80220,ok,ok
+MA,Massachusetts,May 2025,29-2061,Licensed Practical and Licensed Vocational Nurses,29-0000,13210,6.3,3.632,0.87,79270,61690,72610,80220,84570,93980,ok,ok
+MA,Massachusetts,May 2025,29-2072,Medical Records Specialists,29-0000,3500,5.6,0.961,0.77,61560,43960,48170,60350,74700,81620,ok,ok
+MA,Massachusetts,May 2025,29-2081,"Opticians, Dispensing",29-0000,1360,12,0.374,0.79,67520,48850,54290,67210,79670,83550,ok,ok
+MA,Massachusetts,May 2025,29-2091,Orthotists and Prosthetists,29-0000,350,31.9,0.096,1.59,92770,65820,74840,89860,106660,122140,ok,ok
+MA,Massachusetts,May 2025,29-2092,Hearing Aid Specialists,29-0000,null,null,null,null,69780,46290,66700,75310,80010,80020,not_released,ok
+MA,Massachusetts,May 2025,29-2099,"Health Technologists and Technicians, All Other",29-0000,3550,6,0.975,0.83,64120,45700,48290,60500,75290,87310,ok,ok
+MA,Massachusetts,May 2025,29-9021,Health Information Technologists and Medical Registrars,29-0000,880,13.7,0.243,0.99,88600,63320,70740,81420,103600,122980,ok,ok
+MA,Massachusetts,May 2025,29-9091,Athletic Trainers,29-0000,630,16.1,0.172,0.88,74390,50560,59870,70010,87230,104850,ok,ok
+MA,Massachusetts,May 2025,29-9092,Genetic Counselors,29-0000,200,9.6,0.054,2.26,102680,81510,82580,97240,107130,145310,ok,ok
+MA,Massachusetts,May 2025,29-9093,Surgical Assistants,29-0000,null,null,null,null,55190,36340,51650,56430,58370,62060,not_released,ok
+MA,Massachusetts,May 2025,29-9099,"Healthcare Practitioners and Technical Workers, All Other",29-0000,310,5.5,0.086,0.38,92980,50090,53210,80240,121140,154230,ok,ok
+MA,Massachusetts,May 2025,31-1120,Home Health and Personal Care Aides,31-0000,117940,2.7,32.421,1.17,42080,36960,39650,40910,43740,46700,ok,ok
+MA,Massachusetts,May 2025,31-1131,Nursing Assistants,31-0000,38130,2.9,10.483,1.13,47700,39380,44340,46680,49800,57880,ok,ok
+MA,Massachusetts,May 2025,31-1132,Orderlies,31-0000,1810,0.4,0.498,1.48,42420,36660,37660,38970,46440,48310,ok,ok
+MA,Massachusetts,May 2025,31-1133,Psychiatric Aides,31-0000,950,28,0.262,1.15,50830,37020,37120,45300,61640,80130,ok,ok
+MA,Massachusetts,May 2025,31-2011,Occupational Therapy Assistants,31-0000,1410,11.8,0.388,1.18,68340,42120,58870,75040,79510,82180,ok,ok
+MA,Massachusetts,May 2025,31-2012,Occupational Therapy Aides,31-0000,90,12.1,0.025,0.92,41220,35340,35340,40160,42820,53540,ok,ok
+MA,Massachusetts,May 2025,31-2021,Physical Therapist Assistants,31-0000,2640,12.8,0.726,1,76350,62030,67060,79460,81640,88280,ok,ok
+MA,Massachusetts,May 2025,31-2022,Physical Therapist Aides,31-0000,1020,26.4,0.281,0.91,39830,35070,36770,37440,41140,48690,ok,ok
+MA,Massachusetts,May 2025,31-9011,Massage Therapists,31-0000,2830,18.1,0.778,1.23,73100,40420,50090,63390,103000,104510,ok,ok
+MA,Massachusetts,May 2025,31-9091,Dental Assistants,31-0000,9680,7.3,2.66,1.07,56640,47270,48600,57980,60720,72790,ok,ok
+MA,Massachusetts,May 2025,31-9092,Medical Assistants,31-0000,14880,4.4,4.09,0.78,51850,43280,46910,49460,58100,61870,ok,ok
+MA,Massachusetts,May 2025,31-9093,Medical Equipment Preparers,31-0000,1900,2.7,0.522,1.05,57800,40980,48650,58580,63710,77130,ok,ok
+MA,Massachusetts,May 2025,31-9094,Medical Transcriptionists,31-0000,400,35.6,0.111,0.41,40060,36440,36440,36910,40800,47000,ok,ok
+MA,Massachusetts,May 2025,31-9095,Pharmacy Aides,31-0000,340,18.1,0.094,0.37,38650,33700,36790,37390,38280,43160,ok,ok
+MA,Massachusetts,May 2025,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,31-0000,2130,8.7,0.586,0.72,48390,35460,37440,46670,59290,63130,ok,ok
+MA,Massachusetts,May 2025,31-9097,Phlebotomists,31-0000,2580,7.1,0.709,0.77,52540,42950,47260,50170,57960,62350,ok,ok
+MA,Massachusetts,May 2025,31-9099,"Healthcare Support Workers, All Other",31-0000,1680,9.1,0.463,0.66,59020,38960,46370,58340,69200,81640,ok,ok
+MA,Massachusetts,May 2025,33-1011,First-Line Supervisors of Correctional Officers,33-0000,460,0,0.125,0.37,105620,83050,95500,105930,115300,127950,ok,ok
+MA,Massachusetts,May 2025,33-1012,First-Line Supervisors of Police and Detectives,33-0000,5540,1,1.524,1.53,112480,77110,91570,104320,128370,159680,ok,ok
+MA,Massachusetts,May 2025,33-1021,First-Line Supervisors of Firefighting and Prevention Workers,33-0000,3370,1.9,0.927,1.45,100680,75550,82470,96600,117830,140010,ok,ok
+MA,Massachusetts,May 2025,33-1091,First-Line Supervisors of Security Workers,33-0000,1810,4.4,0.499,0.95,61260,48220,49590,57890,70320,78980,ok,ok
+MA,Massachusetts,May 2025,33-1099,"First-Line Supervisors of Protective Service Workers, All Other",33-0000,370,8.8,0.102,0.77,79340,46680,63470,76280,99630,111360,ok,ok
+MA,Massachusetts,May 2025,33-2011,Firefighters,33-0000,11940,2.1,3.283,1.48,73220,49730,61800,72800,80070,98130,ok,ok
+MA,Massachusetts,May 2025,33-2021,Fire Inspectors and Investigators,33-0000,200,9.6,0.055,0.62,86180,56320,71820,81140,97510,125460,ok,ok
+MA,Massachusetts,May 2025,33-3011,Bailiffs,33-0000,930,0,0.256,2.3,82910,55890,62210,86730,105580,105580,ok,ok
+MA,Massachusetts,May 2025,33-3012,Correctional Officers and Jailers,33-0000,6360,0.3,1.749,0.71,82890,63520,71280,86310,91980,101620,ok,ok
+MA,Massachusetts,May 2025,33-3021,Detectives and Criminal Investigators,33-0000,1300,1.7,0.358,0.49,118130,76150,92020,110150,146230,179030,ok,ok
+MA,Massachusetts,May 2025,33-3041,Parking Enforcement Workers,33-0000,300,1.9,0.084,1.44,53980,43710,46320,51980,59810,64040,ok,ok
+MA,Massachusetts,May 2025,33-3051,Police and Sheriff's Patrol Officers,33-0000,17040,0.9,4.683,1.09,83230,61160,71970,78940,97390,108150,ok,ok
+MA,Massachusetts,May 2025,33-9011,Animal Control Workers,33-0000,280,5,0.076,0.98,61860,44370,50130,60930,73010,78180,ok,ok
+MA,Massachusetts,May 2025,33-9021,Private Detectives and Investigators,33-0000,280,9,0.078,0.34,70110,40250,42540,50240,94660,121090,ok,ok
+MA,Massachusetts,May 2025,33-9031,Gambling Surveillance Officers and Gambling Investigators,33-0000,80,0.5,0.022,0.36,59730,45700,57420,61770,61770,72870,ok,ok
+MA,Massachusetts,May 2025,33-9032,Security Guards,33-0000,23930,1.4,6.578,0.8,44760,34830,37720,44670,45760,55800,ok,ok
+MA,Massachusetts,May 2025,33-9091,Crossing Guards and Flaggers,33-0000,1700,15.2,0.467,0.77,54410,34770,37000,43460,76280,92660,ok,ok
+MA,Massachusetts,May 2025,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",33-0000,2640,17.7,0.725,0.72,37930,32830,34510,36650,41600,42290,ok,ok
+MA,Massachusetts,May 2025,33-9093,Transportation Security Screeners,33-0000,1380,9.3,0.381,1.18,70950,62030,62030,73510,78670,83740,ok,ok
+MA,Massachusetts,May 2025,33-9094,School Bus Monitors,33-0000,2300,7.3,0.631,1.25,37340,33690,35360,36020,38470,42270,ok,ok
+MA,Massachusetts,May 2025,33-9099,"Protective Service Workers, All Other",33-0000,610,11.3,0.168,0.32,53850,33680,41310,50040,59130,79150,ok,ok
+MA,Massachusetts,May 2025,35-1011,Chefs and Head Cooks,35-0000,6000,14.8,1.649,1.28,73420,47460,54120,69540,83050,99270,ok,ok
+MA,Massachusetts,May 2025,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,35-0000,23220,6.1,6.384,0.81,52600,37380,39650,46600,60890,76630,ok,ok
+MA,Massachusetts,May 2025,35-2011,"Cooks, Fast Food",35-0000,null,null,null,null,40080,35590,36400,37870,41600,48140,not_released,ok
+MA,Massachusetts,May 2025,35-2012,"Cooks, Institution and Cafeteria",35-0000,7430,6.4,2.043,0.72,48750,39250,45080,47790,51650,58090,ok,ok
+MA,Massachusetts,May 2025,35-2014,"Cooks, Restaurant",35-0000,29570,5.1,8.128,0.9,45450,36540,38370,45600,49040,58590,ok,ok
+MA,Massachusetts,May 2025,35-2015,"Cooks, Short Order",35-0000,4760,25.8,1.309,1.47,42700,32550,33620,44290,50690,53780,ok,ok
+MA,Massachusetts,May 2025,35-2019,"Cooks, All Other",35-0000,null,null,null,null,66760,63530,65540,69570,69580,69600,not_released,ok
+MA,Massachusetts,May 2025,35-2021,Food Preparation Workers,35-0000,13620,12.2,3.745,0.65,41030,34280,36060,38900,44580,48420,ok,ok
+MA,Massachusetts,May 2025,35-3011,Bartenders,35-0000,19850,7.7,5.457,1.12,45120,31890,34200,37440,49500,70870,ok,ok
+MA,Massachusetts,May 2025,35-3023,Fast Food and Counter Workers,35-0000,85810,4.2,23.588,0.95,35880,31290,33770,35850,36980,38700,ok,ok
+MA,Massachusetts,May 2025,35-3031,Waiters and Waitresses,35-0000,54670,4.5,15.029,1.03,44480,31790,35290,38460,45700,62200,ok,ok
+MA,Massachusetts,May 2025,35-3041,"Food Servers, Nonrestaurant",35-0000,5830,4.8,1.604,0.85,38520,33990,35110,36750,38260,47630,ok,ok
+MA,Massachusetts,May 2025,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,35-0000,11510,14.5,3.165,0.91,39220,31200,32100,35380,45520,50760,ok,ok
+MA,Massachusetts,May 2025,35-9021,Dishwashers,35-0000,14100,9.2,3.876,1.26,39100,34030,35690,37190,41910,46000,ok,ok
+MA,Massachusetts,May 2025,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-0000,13540,16.7,3.723,1.34,35420,31200,31200,34960,36490,41740,ok,ok
+MA,Massachusetts,May 2025,35-9099,"Food Preparation and Serving Related Workers, All Other",35-0000,null,null,null,null,36210,31730,33540,35300,39840,40050,not_released,ok
+MA,Massachusetts,May 2025,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,37-0000,4000,7.3,1.1,0.96,60000,41040,47730,59760,68140,79260,ok,ok
+MA,Massachusetts,May 2025,37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",37-0000,2510,15.9,0.69,0.82,69750,46610,59000,63750,79290,99420,ok,ok
+MA,Massachusetts,May 2025,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-0000,55490,2,15.254,1.07,45250,35290,37560,45580,49720,59860,ok,ok
+MA,Massachusetts,May 2025,37-2012,Maids and Housekeeping Cleaners,37-0000,14910,4.5,4.098,0.74,42390,34320,36700,38950,45120,60900,ok,ok
+MA,Massachusetts,May 2025,37-2019,"Building Cleaning Workers, All Other",37-0000,160,17.3,0.045,0.4,66940,57470,58230,60660,70570,104830,ok,ok
+MA,Massachusetts,May 2025,37-2021,Pest Control Workers,37-0000,1900,6.2,0.521,0.79,49030,36750,41900,45560,59480,62170,ok,ok
+MA,Massachusetts,May 2025,37-3011,Landscaping and Groundskeeping Workers,37-0000,22880,5.3,6.289,1.03,50540,37800,45390,48670,58520,62170,ok,ok
+MA,Massachusetts,May 2025,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",37-0000,null,null,null,null,63180,50220,51850,62980,63320,82350,not_released,ok
+MA,Massachusetts,May 2025,37-3013,Tree Trimmers and Pruners,37-0000,2090,31,0.574,1.62,66100,49020,53620,62550,79320,80910,ok,ok
+MA,Massachusetts,May 2025,37-3019,"Grounds Maintenance Workers, All Other",37-0000,null,null,null,null,68970,47680,60610,72550,80080,86000,not_released,ok
+MA,Massachusetts,May 2025,39-1013,First-Line Supervisors of Gambling Services Workers,39-0000,270,0.6,0.073,0.44,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",39-0000,2700,5.9,0.742,1.12,60790,43050,47540,56990,71990,82960,ok,ok
+MA,Massachusetts,May 2025,39-1022,First-Line Supervisors of Personal Service Workers,39-0000,1600,14.2,0.441,0.6,58330,36440,44690,53740,70320,83370,ok,ok
+MA,Massachusetts,May 2025,39-2011,Animal Trainers,39-0000,510,35.3,0.141,1.17,49390,33670,33670,43580,57160,82810,ok,ok
+MA,Massachusetts,May 2025,39-2021,Animal Caretakers,39-0000,6900,8.9,1.897,1.11,45080,32910,36820,39650,47750,64060,ok,ok
+MA,Massachusetts,May 2025,39-3012,Gambling and Sports Book Writers and Runners,39-0000,null,null,null,null,44780,38860,39400,47720,49320,49340,not_released,ok
+MA,Massachusetts,May 2025,39-3031,"Ushers, Lobby Attendants, and Ticket Takers",39-0000,2270,6.4,0.625,0.8,35430,32150,33000,33940,36010,43270,ok,ok
+MA,Massachusetts,May 2025,39-3091,Amusement and Recreation Attendants,39-0000,5460,10.5,1.5,0.59,35690,31200,32760,34440,36310,38840,ok,ok
+MA,Massachusetts,May 2025,39-3092,Costume Attendants,39-0000,90,23.7,0.026,0.61,53390,35770,43350,55190,58410,70970,ok,ok
+MA,Massachusetts,May 2025,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",39-0000,190,25,0.052,0.52,41910,34940,35790,40770,44450,49560,ok,ok
+MA,Massachusetts,May 2025,39-4011,Embalmers,39-0000,100,37.4,0.026,1.05,56660,38720,45050,54320,71320,75300,ok,ok
+MA,Massachusetts,May 2025,39-4012,Crematory Operators,39-0000,30,30,0.009,0.47,54950,43370,46040,56050,59510,59520,ok,ok
+MA,Massachusetts,May 2025,39-4021,Funeral Attendants,39-0000,1090,12,0.299,1.5,46990,31200,31300,46280,57050,69440,ok,ok
+MA,Massachusetts,May 2025,39-4031,"Morticians, Undertakers, and Funeral Arrangers",39-0000,430,12.3,0.118,0.73,64870,46190,47530,62120,82150,100360,ok,ok
+MA,Massachusetts,May 2025,39-5012,"Hairdressers, Hairstylists, and Cosmetologists",39-0000,9600,8.7,2.64,1.34,49700,31600,34930,37290,60340,79330,ok,ok
+MA,Massachusetts,May 2025,39-5092,Manicurists and Pedicurists,39-0000,4660,12.9,1.28,1.3,38750,33510,34940,35470,44800,46210,ok,ok
+MA,Massachusetts,May 2025,39-5093,Shampooers,39-0000,null,null,null,null,34420,31200,33010,34840,35940,36120,not_released,ok
+MA,Massachusetts,May 2025,39-5094,Skincare Specialists,39-0000,1360,24.1,0.374,0.8,48890,36610,43880,47310,49300,60320,ok,ok
+MA,Massachusetts,May 2025,39-6011,Baggage Porters and Bellhops,39-0000,1300,32.2,0.359,1.96,42900,34150,34150,41040,47040,57150,ok,ok
+MA,Massachusetts,May 2025,39-6012,Concierges,39-0000,null,null,null,null,45100,35850,38040,40120,48880,61830,not_released,ok
+MA,Massachusetts,May 2025,39-7010,Tour and Travel Guides,39-0000,1760,10.5,0.484,1.41,40620,33510,35560,37840,42170,50960,ok,ok
+MA,Massachusetts,May 2025,39-9011,Childcare Workers,39-0000,13140,13.4,3.611,1.08,42580,34130,37330,40900,47920,49790,ok,ok
+MA,Massachusetts,May 2025,39-9031,Exercise Trainers and Group Fitness Instructors,39-0000,9200,10.5,2.528,1.22,72370,36110,50760,64620,96140,105390,ok,ok
+MA,Massachusetts,May 2025,39-9032,Recreation Workers,39-0000,11280,9.7,3.1,1.45,41320,32910,36040,38540,45010,50090,ok,ok
+MA,Massachusetts,May 2025,39-9041,Residential Advisors,39-0000,5120,8.1,1.407,2.58,50910,37850,43310,48190,58910,65980,ok,ok
+MA,Massachusetts,May 2025,39-9099,"Personal Care and Service Workers, All Other",39-0000,null,null,null,null,45510,37300,37300,46780,48530,50490,not_released,ok
+MA,Massachusetts,May 2025,41-1011,First-Line Supervisors of Retail Sales Workers,41-0000,20240,3.4,5.564,0.77,59510,39740,45970,57490,67930,81300,ok,ok
+MA,Massachusetts,May 2025,41-1012,First-Line Supervisors of Non-Retail Sales Workers,41-0000,5490,5.8,1.509,1.09,119760,62620,84500,115150,147950,172480,ok,ok
+MA,Massachusetts,May 2025,41-2011,Cashiers,41-0000,58880,4.2,16.185,0.81,36860,32180,34080,35520,37500,44020,ok,ok
+MA,Massachusetts,May 2025,41-2012,Gambling Change Persons and Booth Cashiers,41-0000,110,0.8,0.03,0.22,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,41-2021,Counter and Rental Clerks,41-0000,8220,10.2,2.261,0.88,47010,35220,38430,44070,50780,64410,ok,ok
+MA,Massachusetts,May 2025,41-2022,Parts Salespersons,41-0000,4080,7.2,1.12,0.65,49330,35880,37690,44660,57660,74990,ok,ok
+MA,Massachusetts,May 2025,41-2031,Retail Salespersons,41-0000,86860,2.9,23.877,0.95,39970,33310,34960,36610,40510,47980,ok,ok
+MA,Massachusetts,May 2025,41-3011,Advertising Sales Agents,41-0000,1480,14.5,0.407,0.69,90640,45130,61770,80500,126390,134820,ok,ok
+MA,Massachusetts,May 2025,41-3021,Insurance Sales Agents,41-0000,9940,7.3,2.733,0.89,103070,57620,72850,79300,109390,163380,ok,ok
+MA,Massachusetts,May 2025,41-3031,"Securities, Commodities, and Financial Services Sales Agents",41-0000,14510,8.3,3.989,1.27,124600,50540,66020,100310,161030,219190,ok,ok
+MA,Massachusetts,May 2025,41-3041,Travel Agents,41-0000,1810,13.6,0.499,1.41,58810,35520,46200,56450,66300,80500,ok,ok
+MA,Massachusetts,May 2025,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",41-0000,32300,3.9,8.879,1.1,98380,48030,62610,83760,124380,162330,ok,ok
+MA,Massachusetts,May 2025,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-0000,11650,7.4,3.203,1.75,121440,60040,80520,118980,159210,192880,ok,ok
+MA,Massachusetts,May 2025,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41-0000,22700,4.4,6.241,0.78,93750,47940,63550,79810,108200,157000,ok,ok
+MA,Massachusetts,May 2025,41-9011,Demonstrators and Product Promoters,41-0000,1000,29.4,0.274,0.66,51220,37050,38760,47590,60210,68370,ok,ok
+MA,Massachusetts,May 2025,41-9022,Real Estate Sales Agents,41-0000,4530,19.3,1.244,1,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,41-9031,Sales Engineers,41-0000,3150,28.6,0.865,2.6,135380,77490,97440,136200,171170,177100,ok,ok
+MA,Massachusetts,May 2025,41-9041,Telemarketers,41-0000,null,null,null,null,45740,36860,44650,44650,46240,57540,not_released,ok
+MA,Massachusetts,May 2025,41-9099,"Sales and Related Workers, All Other",41-0000,850,11.1,0.234,0.39,59720,36470,38240,51620,74150,104090,ok,ok
+MA,Massachusetts,May 2025,43-1011,First-Line Supervisors of Office and Administrative Support Workers,43-0000,34520,2.7,9.49,1.03,79530,51020,62200,76770,94900,107490,ok,ok
+MA,Massachusetts,May 2025,43-2011,"Switchboard Operators, Including Answering Service",43-0000,830,11.3,0.228,1.03,45190,36680,38550,43790,48260,57980,ok,ok
+MA,Massachusetts,May 2025,43-2021,Telephone Operators,43-0000,null,null,null,null,50890,43900,45150,47940,47940,79300,not_released,ok
+MA,Massachusetts,May 2025,43-2099,"Communications Equipment Operators, All Other",43-0000,40,39.6,0.011,1.47,61270,48860,51510,54500,66290,89700,ok,ok
+MA,Massachusetts,May 2025,43-3011,Bill and Account Collectors,43-0000,2510,12.1,0.691,0.68,59710,45990,50780,59800,63720,75560,ok,ok
+MA,Massachusetts,May 2025,43-3021,Billing and Posting Clerks,43-0000,7430,6.6,2.044,0.79,57160,46540,49370,56110,61740,71800,ok,ok
+MA,Massachusetts,May 2025,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",43-0000,29110,3.5,8.001,0.91,60460,40760,49160,59830,69110,81080,ok,ok
+MA,Massachusetts,May 2025,43-3051,Payroll and Timekeeping Clerks,43-0000,3280,6.9,0.9,0.91,66810,49110,54890,63670,77960,86360,ok,ok
+MA,Massachusetts,May 2025,43-3061,Procurement Clerks,43-0000,520,15.7,0.142,0.4,59930,46520,51910,60110,63570,72210,ok,ok
+MA,Massachusetts,May 2025,43-3071,Tellers,43-0000,7190,7.9,1.976,0.93,46850,38380,44420,46900,48420,55730,ok,ok
+MA,Massachusetts,May 2025,43-3099,"Financial Clerks, All Other",43-0000,540,16.8,0.148,0.63,60830,46570,46570,60530,64250,80280,ok,ok
+MA,Massachusetts,May 2025,43-4011,Brokerage Clerks,43-0000,890,37.2,0.245,1.06,70350,56480,60640,63640,77020,93670,ok,ok
+MA,Massachusetts,May 2025,43-4031,"Court, Municipal, and License Clerks",43-0000,4360,2,1.198,1.04,64540,47860,52030,61730,73800,84390,ok,ok
+MA,Massachusetts,May 2025,43-4041,"Credit Authorizers, Checkers, and Clerks",43-0000,250,31.1,0.069,0.89,60740,50640,52930,55300,66090,77470,ok,ok
+MA,Massachusetts,May 2025,43-4051,Customer Service Representatives,43-0000,49990,4,13.743,0.82,52750,35440,41500,49120,61090,74880,ok,ok
+MA,Massachusetts,May 2025,43-4061,"Eligibility Interviewers, Government Programs",43-0000,1700,8.4,0.467,0.47,63090,45680,50660,64750,73440,81450,ok,ok
+MA,Massachusetts,May 2025,43-4071,File Clerks,43-0000,600,15.1,0.165,0.35,51290,37430,42990,48310,56400,70210,ok,ok
+MA,Massachusetts,May 2025,43-4081,"Hotel, Motel, and Resort Desk Clerks",43-0000,4530,4.4,1.246,0.74,42190,35820,37580,39400,44810,57690,ok,ok
+MA,Massachusetts,May 2025,43-4111,"Interviewers, Except Eligibility and Loan",43-0000,3050,3.8,0.839,0.88,53790,42350,47340,50340,59800,66200,ok,ok
+MA,Massachusetts,May 2025,43-4121,"Library Assistants, Clerical",43-0000,2840,4.2,0.781,1.42,44860,32370,35920,42520,50570,59940,ok,ok
+MA,Massachusetts,May 2025,43-4131,Loan Interviewers and Clerks,43-0000,2080,10.7,0.571,0.54,56810,45770,49920,58940,62490,70760,ok,ok
+MA,Massachusetts,May 2025,43-4151,Order Clerks,43-0000,1350,13.7,0.37,0.77,56920,45750,48140,55040,63390,72920,ok,ok
+MA,Massachusetts,May 2025,43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",43-0000,1400,8.3,0.385,0.66,56100,42970,48160,55840,63810,71130,ok,ok
+MA,Massachusetts,May 2025,43-4171,Receptionists and Information Clerks,43-0000,18970,6.2,5.214,0.89,43950,35790,38190,43870,47840,54270,ok,ok
+MA,Massachusetts,May 2025,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,43-0000,1560,10,0.428,0.56,48060,40750,40830,44230,47200,62640,ok,ok
+MA,Massachusetts,May 2025,43-4199,"Information and Record Clerks, All Other",43-0000,2000,7.8,0.551,0.63,47620,31200,32900,47200,59360,67890,ok,ok
+MA,Massachusetts,May 2025,43-5011,Cargo and Freight Agents,43-0000,820,16.7,0.225,0.36,61210,49240,51170,58680,72310,75860,ok,ok
+MA,Massachusetts,May 2025,43-5021,Couriers and Messengers,43-0000,1560,18.2,0.43,0.97,44040,35560,38540,42380,47520,56510,ok,ok
+MA,Massachusetts,May 2025,43-5031,Public Safety Telecommunicators,43-0000,2790,2.8,0.768,1.17,62680,48470,52510,61720,68090,79470,ok,ok
+MA,Massachusetts,May 2025,43-5032,"Dispatchers, Except Police, Fire, and Ambulance",43-0000,3510,6.3,0.964,0.74,60350,42460,47570,55690,67100,84150,ok,ok
+MA,Massachusetts,May 2025,43-5041,"Meter Readers, Utilities",43-0000,300,11,0.082,0.66,61110,43280,47000,54150,72780,90530,ok,ok
+MA,Massachusetts,May 2025,43-5051,Postal Service Clerks,43-0000,1950,0,0.537,1.13,63550,55350,57820,62610,71180,75030,ok,ok
+MA,Massachusetts,May 2025,43-5052,Postal Service Mail Carriers,43-0000,7630,0,2.098,0.99,64500,44160,52190,62070,81040,81040,ok,ok
+MA,Massachusetts,May 2025,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",43-0000,2910,0,0.799,1.18,60320,45530,50770,58470,75030,75280,ok,ok
+MA,Massachusetts,May 2025,43-5061,"Production, Planning, and Expediting Clerks",43-0000,5650,3.6,1.554,0.62,61670,41320,49140,60280,73330,81380,ok,ok
+MA,Massachusetts,May 2025,43-5071,"Shipping, Receiving, and Inventory Clerks",43-0000,14370,2.7,3.95,0.75,52560,38820,44010,49240,59470,68500,ok,ok
+MA,Massachusetts,May 2025,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-0000,850,11.8,0.234,0.68,49120,39800,43280,46880,55470,59700,ok,ok
+MA,Massachusetts,May 2025,43-6011,Executive Secretaries and Executive Administrative Assistants,43-0000,14820,3.4,4.074,1.38,87060,59320,69560,82650,100170,123930,ok,ok
+MA,Massachusetts,May 2025,43-6012,Legal Secretaries and Administrative Assistants,43-0000,4020,12.7,1.104,1.1,66460,42220,48040,62120,77420,100430,ok,ok
+MA,Massachusetts,May 2025,43-6013,Medical Secretaries and Administrative Assistants,43-0000,22210,3.8,6.107,0.99,52910,41460,47480,50290,58910,63030,ok,ok
+MA,Massachusetts,May 2025,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43-0000,37750,2.2,10.379,0.95,58380,41510,48150,57940,64240,78400,ok,ok
+MA,Massachusetts,May 2025,43-9021,Data Entry Keyers,43-0000,1590,8.7,0.438,0.54,46880,35250,38370,47560,54170,58280,ok,ok
+MA,Massachusetts,May 2025,43-9022,Word Processors and Typists,43-0000,350,16.1,0.095,0.42,54540,41600,49260,53740,59110,63790,ok,ok
+MA,Massachusetts,May 2025,43-9031,Desktop Publishers,43-0000,80,22.7,0.023,1.05,65980,46320,48700,61170,86300,90020,ok,ok
+MA,Massachusetts,May 2025,43-9041,Insurance Claims and Policy Processing Clerks,43-0000,4820,6.8,1.326,0.96,55540,44390,47550,52910,61150,72180,ok,ok
+MA,Massachusetts,May 2025,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",43-0000,1050,15.3,0.288,0.81,50660,36600,42330,48860,56570,65420,ok,ok
+MA,Massachusetts,May 2025,43-9061,"Office Clerks, General",43-0000,47940,3.3,13.179,0.83,51980,35750,42350,49940,60150,69770,ok,ok
+MA,Massachusetts,May 2025,43-9071,"Office Machine Operators, Except Computer",43-0000,null,null,null,null,49080,38580,43200,47470,55570,59240,not_released,ok
+MA,Massachusetts,May 2025,43-9081,Proofreaders and Copy Markers,43-0000,190,34.1,0.051,1.74,61230,51870,56430,57160,67150,74480,ok,ok
+MA,Massachusetts,May 2025,43-9111,Statistical Assistants,43-0000,190,19.8,0.051,1.68,64450,49020,50420,70470,70570,78920,ok,ok
+MA,Massachusetts,May 2025,43-9199,"Office and Administrative Support Workers, All Other",43-0000,930,31.6,0.257,0.21,51280,31200,31200,40810,63420,79660,ok,ok
+MA,Massachusetts,May 2025,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-0000,390,21.2,0.108,0.6,63020,46160,54300,59640,75100,80500,ok,ok
+MA,Massachusetts,May 2025,45-2011,Agricultural Inspectors,45-0000,70,9.2,0.018,0.2,58920,38890,44250,46510,75250,89960,ok,ok
+MA,Massachusetts,May 2025,45-2041,"Graders and Sorters, Agricultural Products",45-0000,40,19.1,0.01,0.06,38880,31200,34110,41770,41960,45500,ok,ok
+MA,Massachusetts,May 2025,45-2091,Agricultural Equipment Operators,45-0000,40,21.7,0.012,0.06,47670,36430,37590,49150,58140,60290,ok,ok
+MA,Massachusetts,May 2025,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-0000,1340,17,0.369,0.22,41480,34950,36310,38220,44670,50430,ok,ok
+MA,Massachusetts,May 2025,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-0000,270,19.3,0.074,0.35,42500,35000,37100,38280,47860,56260,ok,ok
+MA,Massachusetts,May 2025,45-4011,Forest and Conservation Workers,45-0000,120,20.5,0.034,0.87,53730,35160,43340,51890,65390,73470,ok,ok
+MA,Massachusetts,May 2025,45-4022,Logging Equipment Operators,45-0000,null,null,null,null,52170,48040,48960,48960,49420,74010,not_released,ok
+MA,Massachusetts,May 2025,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47-0000,18330,4.2,5.039,0.96,100030,67660,79960,97850,120330,134820,ok,ok
+MA,Massachusetts,May 2025,47-2021,Brickmasons and Blockmasons,47-0000,1570,21.9,0.432,1.28,99860,59940,76280,94950,133490,136860,ok,ok
+MA,Massachusetts,May 2025,47-2022,Stonemasons,47-0000,null,null,null,null,75840,45390,60140,69610,83200,121330,not_released,ok
+MA,Massachusetts,May 2025,47-2031,Carpenters,47-0000,18540,6.1,5.097,1.18,79680,48230,60770,75200,97520,122880,ok,ok
+MA,Massachusetts,May 2025,47-2041,Carpet Installers,47-0000,null,null,null,null,50470,45350,47630,47930,49580,65750,not_released,ok
+MA,Massachusetts,May 2025,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-0000,1060,33,0.291,1.91,87300,61320,65610,79280,109460,123030,ok,ok
+MA,Massachusetts,May 2025,47-2043,Floor Sanders and Finishers,47-0000,null,null,null,null,55930,45380,48170,58230,63310,68680,not_released,ok
+MA,Massachusetts,May 2025,47-2044,Tile and Stone Setters,47-0000,410,46.5,0.113,0.49,80300,52040,59190,81150,95940,104170,ok,ok
+MA,Massachusetts,May 2025,47-2051,Cement Masons and Concrete Finishers,47-0000,1590,26.5,0.438,0.33,72720,49330,55880,63840,78210,111910,ok,ok
+MA,Massachusetts,May 2025,47-2061,Construction Laborers,47-0000,16210,5.8,4.455,0.63,70830,45170,52330,63390,88330,98880,ok,ok
+MA,Massachusetts,May 2025,47-2071,"Paving, Surfacing, and Tamping Equipment Operators",47-0000,560,44.5,0.153,0.57,64620,37300,55790,60950,77940,81560,ok,ok
+MA,Massachusetts,May 2025,47-2072,Pile Driver Operators,47-0000,130,46.2,0.035,2.38,112680,87100,114150,120980,124640,124700,ok,ok
+MA,Massachusetts,May 2025,47-2073,Operating Engineers and Other Construction Equipment Operators,47-0000,9680,8.6,2.66,0.87,84730,52630,62370,76820,107550,125400,ok,ok
+MA,Massachusetts,May 2025,47-2081,Drywall and Ceiling Tile Installers,47-0000,590,24.3,0.163,0.31,68220,34220,61390,69500,80280,93810,ok,ok
+MA,Massachusetts,May 2025,47-2082,Tapers,47-0000,510,27.7,0.139,1.68,73580,37670,40990,65060,107100,115390,ok,ok
+MA,Massachusetts,May 2025,47-2111,Electricians,47-0000,17810,5.7,4.895,1.01,81560,46990,57860,79420,100480,128210,ok,ok
+MA,Massachusetts,May 2025,47-2121,Glaziers,47-0000,1080,16.1,0.297,0.79,90890,62220,74390,100810,109550,110650,ok,ok
+MA,Massachusetts,May 2025,47-2131,"Insulation Workers, Floor, Ceiling, and Wall",47-0000,710,25.5,0.195,0.68,52420,44610,47480,48940,57970,59290,ok,ok
+MA,Massachusetts,May 2025,47-2132,"Insulation Workers, Mechanical",47-0000,560,47.3,0.155,0.94,66620,43760,60850,64710,78350,78390,ok,ok
+MA,Massachusetts,May 2025,47-2141,"Painters, Construction and Maintenance",47-0000,4430,6.2,1.219,0.84,64080,43520,46830,57510,70050,109850,ok,ok
+MA,Massachusetts,May 2025,47-2151,Pipelayers,47-0000,null,null,null,null,72760,56620,63020,72770,86550,86560,not_released,ok
+MA,Massachusetts,May 2025,47-2152,"Plumbers, Pipefitters, and Steamfitters",47-0000,13460,11.1,3.701,1.24,90410,52010,61860,93880,108430,135080,ok,ok
+MA,Massachusetts,May 2025,47-2161,Plasterers and Stucco Masons,47-0000,260,44.8,0.072,0.58,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,47-2181,Roofers,47-0000,1950,9.8,0.536,0.62,72990,50790,59870,72750,83100,106290,ok,ok
+MA,Massachusetts,May 2025,47-2211,Sheet Metal Workers,47-0000,2890,23.3,0.795,1.03,78900,46440,52760,82100,92630,121050,ok,ok
+MA,Massachusetts,May 2025,47-2221,Structural Iron and Steel Workers,47-0000,2050,32.3,0.564,1.28,113290,82760,110910,120840,124040,128080,ok,ok
+MA,Massachusetts,May 2025,47-2231,Solar Photovoltaic Installers,47-0000,620,35.5,0.171,0.85,61910,46150,49550,59180,70400,76280,ok,ok
+MA,Massachusetts,May 2025,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",47-0000,410,23.1,0.113,1.24,62300,48540,52500,61020,65920,80350,ok,ok
+MA,Massachusetts,May 2025,47-3012,Helpers--Carpenters,47-0000,630,49.4,0.173,1.24,46910,35190,36750,48130,56160,56160,ok,ok
+MA,Massachusetts,May 2025,47-3013,Helpers--Electricians,47-0000,610,29.5,0.166,0.41,49700,40440,44010,48340,57670,58060,ok,ok
+MA,Massachusetts,May 2025,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",47-0000,null,null,null,null,46000,38570,43690,44340,48680,58860,not_released,ok
+MA,Massachusetts,May 2025,47-3019,"Helpers, Construction Trades, All Other",47-0000,120,37.7,0.033,0.21,46960,38830,42670,44720,49920,60140,ok,ok
+MA,Massachusetts,May 2025,47-4011,Construction and Building Inspectors,47-0000,4290,10.4,1.178,1.25,86940,50330,65730,83200,104030,123400,ok,ok
+MA,Massachusetts,May 2025,47-4021,Elevator and Escalator Installers and Repairers,47-0000,null,null,null,null,123100,78600,83020,138420,153760,154280,not_released,ok
+MA,Massachusetts,May 2025,47-4031,Fence Erectors,47-0000,null,null,null,null,54590,42960,47690,48430,61380,77420,not_released,ok
+MA,Massachusetts,May 2025,47-4041,Hazardous Materials Removal Workers,47-0000,2770,11.7,0.761,2.29,52820,46220,47890,49620,55990,65870,ok,ok
+MA,Massachusetts,May 2025,47-4051,Highway Maintenance Workers,47-0000,2000,4.1,0.55,0.55,61800,46460,50160,61500,70070,79860,ok,ok
+MA,Massachusetts,May 2025,47-4061,Rail-Track Laying and Maintenance Equipment Operators,47-0000,570,1,0.156,1.24,84610,61570,68180,94330,101350,101350,ok,ok
+MA,Massachusetts,May 2025,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,47-0000,620,17.7,0.169,0.86,56940,44670,48000,53080,67710,73240,ok,ok
+MA,Massachusetts,May 2025,47-4090,Miscellaneous Construction and Related Workers,47-0000,960,36.5,0.263,1.44,73700,50360,59280,70540,81070,102700,ok,ok
+MA,Massachusetts,May 2025,47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-0000,280,17.2,0.077,0.35,75540,55210,62910,76070,80220,110730,ok,ok
+MA,Massachusetts,May 2025,47-5023,"Earth Drillers, Except Oil and Gas",47-0000,130,44.3,0.037,0.29,67750,51350,54510,64180,74770,86420,ok,ok
+MA,Massachusetts,May 2025,47-5051,"Rock Splitters, Quarry",47-0000,90,38.3,0.024,1.13,60190,44870,48280,66000,70940,71880,ok,ok
+MA,Massachusetts,May 2025,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",49-0000,12140,3.4,3.338,0.84,92890,59540,73630,92250,110800,129970,ok,ok
+MA,Massachusetts,May 2025,49-2011,"Computer, Automated Teller, and Office Machine Repairers",49-0000,1350,20,0.37,0.88,57900,39900,47020,57270,69290,75500,ok,ok
+MA,Massachusetts,May 2025,49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",49-0000,null,null,null,null,66990,38180,58280,60890,74080,88450,not_released,ok
+MA,Massachusetts,May 2025,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",49-0000,2890,24,0.794,0.88,74350,39610,60920,76500,93190,106400,ok,ok
+MA,Massachusetts,May 2025,49-2091,Avionics Technicians,49-0000,40,11.2,0.011,0.09,87210,79040,82930,89340,89640,89680,ok,ok
+MA,Massachusetts,May 2025,49-2092,"Electric Motor, Power Tool, and Related Repairers",49-0000,null,null,null,null,70670,52450,53940,62710,86650,101960,not_released,ok
+MA,Massachusetts,May 2025,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",49-0000,90,0.8,0.025,0.55,90640,80800,80800,81420,104230,122740,ok,ok
+MA,Massachusetts,May 2025,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-0000,920,14.2,0.254,0.61,79300,44210,65800,77570,93300,108220,ok,ok
+MA,Massachusetts,May 2025,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",49-0000,430,9.5,0.119,0.9,111350,86780,100200,119460,123370,127000,ok,ok
+MA,Massachusetts,May 2025,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",49-0000,220,40.5,0.061,1.11,48480,37900,43760,47590,55920,58830,ok,ok
+MA,Massachusetts,May 2025,49-2097,Audiovisual Equipment Installers and Repairers,49-0000,null,null,null,null,60650,46870,52040,56040,76670,80080,not_released,ok
+MA,Massachusetts,May 2025,49-2098,Security and Fire Alarm Systems Installers,49-0000,1690,24,0.465,0.84,78560,48740,60720,78530,97800,103820,ok,ok
+MA,Massachusetts,May 2025,49-3011,Aircraft Mechanics and Service Technicians,49-0000,1410,4.8,0.387,0.44,96210,75180,82930,93040,99290,133400,ok,ok
+MA,Massachusetts,May 2025,49-3021,Automotive Body and Related Repairers,49-0000,3060,10.4,0.842,0.88,59290,45200,46560,59300,70720,77400,ok,ok
+MA,Massachusetts,May 2025,49-3022,Automotive Glass Installers and Repairers,49-0000,140,30.8,0.039,0.3,56560,39330,42740,58490,63560,83060,ok,ok
+MA,Massachusetts,May 2025,49-3023,Automotive Service Technicians and Mechanics,49-0000,12710,4.7,3.493,0.77,62960,38370,45560,60760,78560,95090,ok,ok
+MA,Massachusetts,May 2025,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,49-0000,4870,6.2,1.338,0.72,73640,49400,59920,73270,84410,99460,ok,ok
+MA,Massachusetts,May 2025,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",49-0000,1620,14.7,0.446,0.39,80190,59730,64880,76070,92450,108670,ok,ok
+MA,Massachusetts,May 2025,49-3043,Rail Car Repairers,49-0000,770,1.5,0.211,1.54,101040,81430,81900,108680,108680,119060,ok,ok
+MA,Massachusetts,May 2025,49-3051,Motorboat Mechanics and Service Technicians,49-0000,890,18.1,0.245,1.64,70900,48340,60190,74160,78710,94500,ok,ok
+MA,Massachusetts,May 2025,49-3052,Motorcycle Mechanics,49-0000,null,null,null,null,52760,43890,47700,48940,57990,65410,not_released,ok
+MA,Massachusetts,May 2025,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,49-0000,800,29.3,0.221,0.95,59070,47020,49920,57830,62390,78720,ok,ok
+MA,Massachusetts,May 2025,49-3091,Bicycle Repairers,49-0000,280,41.5,0.076,0.97,42450,36140,38090,41600,47990,49300,ok,ok
+MA,Massachusetts,May 2025,49-3092,Recreational Vehicle Service Technicians,49-0000,240,48.3,0.065,0.58,60180,48030,51990,61470,63050,67790,ok,ok
+MA,Massachusetts,May 2025,49-3093,Tire Repairers and Changers,49-0000,1240,7,0.342,0.49,38550,34440,35250,36770,37540,46980,ok,ok
+MA,Massachusetts,May 2025,49-9011,Mechanical Door Repairers,49-0000,null,null,null,null,58660,47900,50850,55770,66070,70530,not_released,ok
+MA,Massachusetts,May 2025,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",49-0000,1320,13.8,0.364,1.17,89360,65520,75780,95520,100250,106520,ok,ok
+MA,Massachusetts,May 2025,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-0000,8200,11.9,2.255,0.86,77760,50820,61070,77300,95070,102410,ok,ok
+MA,Massachusetts,May 2025,49-9031,Home Appliance Repairers,49-0000,550,18.9,0.151,0.73,74410,48790,60390,70750,86400,102120,ok,ok
+MA,Massachusetts,May 2025,49-9041,Industrial Machinery Mechanics,49-0000,6130,8.2,1.684,0.6,72660,49230,58220,72840,84690,98350,ok,ok
+MA,Massachusetts,May 2025,49-9043,"Maintenance Workers, Machinery",49-0000,320,34.6,0.087,0.23,56930,41400,45110,55000,63310,77930,ok,ok
+MA,Massachusetts,May 2025,49-9044,Millwrights,49-0000,null,null,null,null,67380,57870,62200,65220,74530,78610,not_released,ok
+MA,Massachusetts,May 2025,49-9051,Electrical Power-Line Installers and Repairers,49-0000,2350,6.3,0.646,0.77,108040,81470,94370,110210,126040,127620,ok,ok
+MA,Massachusetts,May 2025,49-9052,Telecommunications Line Installers and Repairers,49-0000,2230,15.5,0.612,0.97,91700,56640,78800,103410,106610,108790,ok,ok
+MA,Massachusetts,May 2025,49-9062,Medical Equipment Repairers,49-0000,2200,16.7,0.606,1.43,76500,48860,62930,78230,92510,100490,ok,ok
+MA,Massachusetts,May 2025,49-9063,Musical Instrument Repairers and Tuners,49-0000,130,19.4,0.035,1,50800,36300,39570,46820,61450,67380,ok,ok
+MA,Massachusetts,May 2025,49-9069,"Precision Instrument and Equipment Repairers, All Other",49-0000,70,47.5,0.019,0.31,75260,56000,59760,62260,98220,101900,ok,ok
+MA,Massachusetts,May 2025,49-9071,"Maintenance and Repair Workers, General",49-0000,29830,3.1,8.201,0.83,58930,38750,46910,58320,69500,80190,ok,ok
+MA,Massachusetts,May 2025,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",49-0000,70,16.6,0.018,0.11,60240,43680,49490,54380,78310,78310,ok,ok
+MA,Massachusetts,May 2025,49-9094,Locksmiths and Safe Repairers,49-0000,300,12.8,0.082,0.85,67510,49230,54640,59420,82680,100340,ok,ok
+MA,Massachusetts,May 2025,49-9096,Riggers,49-0000,240,42.3,0.065,0.45,60780,35360,45850,53500,64690,99490,ok,ok
+MA,Massachusetts,May 2025,49-9097,Signal and Track Switch Repairers,49-0000,160,0.8,0.043,0.77,114970,74690,96600,126440,126440,160180,ok,ok
+MA,Massachusetts,May 2025,49-9098,"Helpers--Installation, Maintenance, and Repair Workers",49-0000,1290,18.6,0.354,0.58,44370,34320,37250,42200,50070,53860,ok,ok
+MA,Massachusetts,May 2025,49-9099,"Installation, Maintenance, and Repair Workers, All Other",49-0000,1240,16.6,0.342,0.3,63590,42990,48560,59890,73820,96520,ok,ok
+MA,Massachusetts,May 2025,51-1011,First-Line Supervisors of Production and Operating Workers,51-0000,12390,2.3,3.406,0.79,83140,52530,64090,79920,98940,114800,ok,ok
+MA,Massachusetts,May 2025,51-2021,"Coil Winders, Tapers, and Finishers",51-0000,50,25.3,0.013,0.16,52030,38700,41770,44080,58610,80710,ok,ok
+MA,Massachusetts,May 2025,51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",51-0000,11580,5.4,3.184,2,49620,38370,41710,47130,52220,63060,ok,ok
+MA,Massachusetts,May 2025,51-2031,Engine and Other Machine Assemblers,51-0000,500,18.7,0.139,0.63,53840,36260,43410,46880,61170,82700,ok,ok
+MA,Massachusetts,May 2025,51-2041,Structural Metal Fabricators and Fitters,51-0000,690,21.9,0.189,0.56,64790,47430,48910,62040,77730,85260,ok,ok
+MA,Massachusetts,May 2025,51-2051,Fiberglass Laminators and Fabricators,51-0000,200,39.9,0.056,0.53,54270,44000,46620,55980,60030,63460,ok,ok
+MA,Massachusetts,May 2025,51-2090,Miscellaneous Assemblers and Fabricators,51-0000,11600,10,3.188,0.35,47080,35660,39450,46720,49420,60110,ok,ok
+MA,Massachusetts,May 2025,51-3011,Bakers,51-0000,6070,11.4,1.668,1.1,41280,35080,36520,38130,45400,47750,ok,ok
+MA,Massachusetts,May 2025,51-3021,Butchers and Meat Cutters,51-0000,1480,10.9,0.407,0.46,49210,38370,41740,48430,53340,62120,ok,ok
+MA,Massachusetts,May 2025,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",51-0000,2350,8.5,0.647,0.69,38570,33330,34460,36570,41040,46400,ok,ok
+MA,Massachusetts,May 2025,51-3023,Slaughterers and Meat Packers,51-0000,170,22,0.047,0.11,40680,34730,36390,37780,44950,49920,ok,ok
+MA,Massachusetts,May 2025,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",51-0000,190,23.7,0.051,0.39,46790,41360,41360,45400,50590,54390,ok,ok
+MA,Massachusetts,May 2025,51-3092,Food Batchmakers,51-0000,5100,9.7,1.402,1.25,38990,31200,34010,36880,43750,49360,ok,ok
+MA,Massachusetts,May 2025,51-3093,Food Cooking Machine Operators and Tenders,51-0000,170,33.5,0.048,0.24,46640,37760,41030,47960,50250,56530,ok,ok
+MA,Massachusetts,May 2025,51-3099,"Food Processing Workers, All Other",51-0000,210,24.4,0.059,0.14,44320,37300,40750,43200,48470,52440,ok,ok
+MA,Massachusetts,May 2025,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,1490,8.5,0.41,1.05,52350,39850,45210,50370,58240,65470,ok,ok
+MA,Massachusetts,May 2025,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,310,24.5,0.086,1.49,59820,39180,44360,51770,71860,89400,ok,ok
+MA,Massachusetts,May 2025,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,480,30.4,0.131,0.81,50750,39260,46770,47830,58290,61690,ok,ok
+MA,Massachusetts,May 2025,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,2590,9.6,0.711,0.65,49360,37460,39570,45760,57460,64160,ok,ok
+MA,Massachusetts,May 2025,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-0000,60,21.2,0.017,0.58,70100,46110,58460,77780,80710,84930,ok,ok
+MA,Massachusetts,May 2025,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-0000,2420,8.3,0.665,1.54,54320,39610,45440,50910,60380,75340,ok,ok
+MA,Massachusetts,May 2025,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-0000,690,12.8,0.189,1.76,60670,43260,48520,60870,68930,80440,ok,ok
+MA,Massachusetts,May 2025,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,null,null,null,null,63800,45900,52240,62380,81290,81490,not_released,ok
+MA,Massachusetts,May 2025,51-4041,Machinists,51-0000,7080,6.4,1.945,1.05,69390,47910,57690,67270,78640,93330,ok,ok
+MA,Massachusetts,May 2025,51-4051,Metal-Refining Furnace Operators and Tenders,51-0000,240,32.7,0.065,0.6,57140,45140,47010,58480,65910,75310,ok,ok
+MA,Massachusetts,May 2025,51-4052,"Pourers and Casters, Metal",51-0000,null,null,null,null,63350,40240,49550,62820,72850,91100,not_released,ok
+MA,Massachusetts,May 2025,51-4061,"Model Makers, Metal and Plastic",51-0000,100,27.4,0.027,1.62,75160,52000,59410,67830,94770,105680,ok,ok
+MA,Massachusetts,May 2025,51-4062,"Patternmakers, Metal and Plastic",51-0000,null,null,null,null,65900,63130,64890,65210,66440,70510,not_released,ok
+MA,Massachusetts,May 2025,51-4071,Foundry Mold and Coremakers,51-0000,60,34.1,0.017,0.2,59070,47440,47480,55940,71190,77730,ok,ok
+MA,Massachusetts,May 2025,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,3810,6.8,1.048,1.08,44750,35920,37460,42570,49330,58670,ok,ok
+MA,Massachusetts,May 2025,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-0000,1390,11.6,0.382,0.48,51570,37870,44810,48230,59810,63710,ok,ok
+MA,Massachusetts,May 2025,51-4111,Tool and Die Makers,51-0000,850,8.4,0.233,0.64,68680,47200,55430,67230,79900,93810,ok,ok
+MA,Massachusetts,May 2025,51-4121,"Welders, Cutters, Solderers, and Brazers",51-0000,2830,7,0.779,0.29,65050,47720,53680,62570,74050,83430,ok,ok
+MA,Massachusetts,May 2025,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",51-0000,480,13.5,0.133,0.65,51550,38580,41700,50480,60610,66630,ok,ok
+MA,Massachusetts,May 2025,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",51-0000,250,14.1,0.069,0.76,57430,42360,45450,49280,64240,83010,ok,ok
+MA,Massachusetts,May 2025,51-4192,"Layout Workers, Metal and Plastic",51-0000,90,23.5,0.026,0.67,63350,40000,47090,63880,78870,84190,ok,ok
+MA,Massachusetts,May 2025,51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",51-0000,860,14.7,0.236,1.13,45930,35440,37820,46150,50130,57250,ok,ok
+MA,Massachusetts,May 2025,51-4194,"Tool Grinders, Filers, and Sharpeners",51-0000,40,38,0.01,0.29,54060,48300,49430,56600,56600,56600,ok,ok
+MA,Massachusetts,May 2025,51-4199,"Metal Workers and Plastic Workers, All Other",51-0000,30,37.7,0.009,0.08,62050,32430,38560,47060,95370,97060,ok,ok
+MA,Massachusetts,May 2025,51-5111,Prepress Technicians and Workers,51-0000,460,15,0.125,0.82,58340,44890,47670,57250,64020,83620,ok,ok
+MA,Massachusetts,May 2025,51-5112,Printing Press Operators,51-0000,2110,6.5,0.58,0.62,55430,39430,44550,53050,64230,75310,ok,ok
+MA,Massachusetts,May 2025,51-5113,Print Binding and Finishing Workers,51-0000,750,9.4,0.207,0.97,46540,35100,36540,46630,51470,60880,ok,ok
+MA,Massachusetts,May 2025,51-6011,Laundry and Dry-Cleaning Workers,51-0000,3700,8.9,1.017,0.8,38160,34540,35920,37490,38930,42710,ok,ok
+MA,Massachusetts,May 2025,51-6021,"Pressers, Textile, Garment, and Related Materials",51-0000,470,29.9,0.129,0.77,37280,34000,35320,36410,37650,43750,ok,ok
+MA,Massachusetts,May 2025,51-6031,Sewing Machine Operators,51-0000,1540,15,0.423,0.63,42850,35580,37620,42910,46160,53990,ok,ok
+MA,Massachusetts,May 2025,51-6041,Shoe and Leather Workers and Repairers,51-0000,500,24.5,0.137,2.85,47220,36180,45150,46550,54890,54980,ok,ok
+MA,Massachusetts,May 2025,51-6051,"Sewers, Hand",51-0000,40,33.4,0.012,0.88,38760,31200,31200,38680,42240,53080,ok,ok
+MA,Massachusetts,May 2025,51-6052,"Tailors, Dressmakers, and Custom Sewers",51-0000,null,null,null,null,51890,38660,46230,50470,58570,63890,not_released,ok
+MA,Massachusetts,May 2025,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",51-0000,380,35.6,0.104,1.8,43880,33610,37300,43680,46450,55250,ok,ok
+MA,Massachusetts,May 2025,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-0000,180,13.2,0.049,0.59,45760,39400,39450,44190,48110,59170,ok,ok
+MA,Massachusetts,May 2025,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",51-0000,170,14.8,0.048,0.34,41220,35560,37620,40270,44740,47320,ok,ok
+MA,Massachusetts,May 2025,51-6092,Fabric and Apparel Patternmakers,51-0000,null,null,null,null,55440,43150,43460,47680,61480,77430,not_released,ok
+MA,Massachusetts,May 2025,51-6093,Upholsterers,51-0000,150,36.5,0.041,0.32,54170,40120,45580,48380,62230,77050,ok,ok
+MA,Massachusetts,May 2025,51-6099,"Textile, Apparel, and Furnishings Workers, All Other",51-0000,160,20.5,0.043,0.49,47040,34650,36540,40050,56990,68220,ok,ok
+MA,Massachusetts,May 2025,51-7011,Cabinetmakers and Bench Carpenters,51-0000,1440,23.9,0.395,0.8,58350,42120,46830,58040,64780,79860,ok,ok
+MA,Massachusetts,May 2025,51-7021,Furniture Finishers,51-0000,340,15.6,0.094,1.01,57200,43700,49990,56300,62240,75550,ok,ok
+MA,Massachusetts,May 2025,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",51-0000,60,28.1,0.015,0.06,54170,43630,45480,47210,64440,75430,ok,ok
+MA,Massachusetts,May 2025,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",51-0000,890,10.2,0.244,0.62,46170,37190,39130,46430,49730,55910,ok,ok
+MA,Massachusetts,May 2025,51-8012,Power Distributors and Dispatchers,51-0000,390,9,0.106,1.94,118540,99440,102330,121010,133710,146180,ok,ok
+MA,Massachusetts,May 2025,51-8013,Power Plant Operators,51-0000,880,21.1,0.243,1.29,99500,68150,79690,100140,121580,130850,ok,ok
+MA,Massachusetts,May 2025,51-8021,Stationary Engineers and Boiler Operators,51-0000,530,1.7,0.145,0.8,82450,64540,71140,80800,91140,100710,ok,ok
+MA,Massachusetts,May 2025,51-8031,Water and Wastewater Treatment Plant and System Operators,51-0000,2510,11,0.69,0.84,69900,50980,60120,68550,79050,91390,ok,ok
+MA,Massachusetts,May 2025,51-8091,Chemical Plant and System Operators,51-0000,570,9.1,0.157,1.47,85260,64870,82040,83710,92880,98630,ok,ok
+MA,Massachusetts,May 2025,51-8092,Gas Plant Operators,51-0000,340,16.2,0.095,0.82,102210,75600,98880,103830,111010,119590,ok,ok
+MA,Massachusetts,May 2025,51-8099,"Plant and System Operators, All Other",51-0000,40,26.8,0.012,0.13,113290,88940,96890,120660,121220,129990,ok,ok
+MA,Massachusetts,May 2025,51-9011,Chemical Equipment Operators and Tenders,51-0000,2860,9.9,0.786,0.88,57580,41560,46470,56920,64160,77700,ok,ok
+MA,Massachusetts,May 2025,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",51-0000,510,12.3,0.141,0.37,54470,38730,46080,48970,60530,76420,ok,ok
+MA,Massachusetts,May 2025,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",51-0000,370,37.1,0.101,0.61,52020,43110,46380,50110,59660,62640,ok,ok
+MA,Massachusetts,May 2025,51-9022,"Grinding and Polishing Workers, Hand",51-0000,170,25.5,0.045,0.67,45450,37580,37700,42700,48280,63140,ok,ok
+MA,Massachusetts,May 2025,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",51-0000,420,27.3,0.116,0.19,58930,40640,50360,60790,65870,74920,ok,ok
+MA,Massachusetts,May 2025,51-9031,"Cutters and Trimmers, Hand",51-0000,110,43.4,0.031,0.8,42310,32210,34880,39970,44810,58400,ok,ok
+MA,Massachusetts,May 2025,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",51-0000,1280,21.1,0.352,1.22,44920,35360,38670,43790,48740,58430,ok,ok
+MA,Massachusetts,May 2025,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51-0000,950,20,0.26,0.69,47900,40430,43050,47220,51410,56010,ok,ok
+MA,Massachusetts,May 2025,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51-0000,120,19.1,0.033,0.36,56400,39050,44310,53300,68710,72560,ok,ok
+MA,Massachusetts,May 2025,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",51-0000,10650,5.4,2.927,0.76,56530,38140,46630,52270,65050,76330,ok,ok
+MA,Massachusetts,May 2025,51-9071,Jewelers and Precious Stone and Metal Workers,51-0000,830,16.2,0.228,1.58,54890,36510,39170,51060,58570,79000,ok,ok
+MA,Massachusetts,May 2025,51-9081,Dental Laboratory Technicians,51-0000,440,14.1,0.121,0.55,70340,47450,60960,72800,79110,82820,ok,ok
+MA,Massachusetts,May 2025,51-9082,Medical Appliance Technicians,51-0000,null,null,null,null,63420,47200,52520,59810,73550,85250,not_released,ok
+MA,Massachusetts,May 2025,51-9083,Ophthalmic Laboratory Technicians,51-0000,null,null,null,null,45650,36570,36570,43100,48140,64770,not_released,ok
+MA,Massachusetts,May 2025,51-9111,Packaging and Filling Machine Operators and Tenders,51-0000,5020,5.9,1.379,0.57,43100,33550,37050,40360,47680,55470,ok,ok
+MA,Massachusetts,May 2025,51-9123,"Painting, Coating, and Decorating Workers",51-0000,210,31.1,0.058,1.13,53030,42220,50670,54070,55510,59210,ok,ok
+MA,Massachusetts,May 2025,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51-0000,2740,7.5,0.753,0.74,54200,36550,45120,51150,59980,77010,ok,ok
+MA,Massachusetts,May 2025,51-9141,Semiconductor Processing Technicians,51-0000,1190,5.1,0.327,1.62,53450,41870,41870,51410,59220,72750,ok,ok
+MA,Massachusetts,May 2025,51-9151,Photographic Process Workers and Processing Machine Operators,51-0000,null,null,null,null,46450,36880,38400,38400,42890,85530,not_released,ok
+MA,Massachusetts,May 2025,51-9161,Computer Numerically Controlled Tool Operators,51-0000,2500,9.9,0.689,0.63,60840,42810,48560,61630,73330,77920,ok,ok
+MA,Massachusetts,May 2025,51-9162,Computer Numerically Controlled Tool Programmers,51-0000,680,11.5,0.187,1.02,80880,59710,67970,81670,94090,102920,ok,ok
+MA,Massachusetts,May 2025,51-9191,Adhesive Bonding Machine Operators and Tenders,51-0000,130,31.9,0.036,0.48,41950,36450,36790,39250,46380,49120,ok,ok
+MA,Massachusetts,May 2025,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",51-0000,380,16.7,0.104,1.09,44910,37190,39690,43210,47540,56480,ok,ok
+MA,Massachusetts,May 2025,51-9193,Cooling and Freezing Equipment Operators and Tenders,51-0000,null,null,null,null,45440,35480,35480,46800,47860,58700,not_released,ok
+MA,Massachusetts,May 2025,51-9194,Etchers and Engravers,51-0000,320,17.2,0.088,1.77,51600,40830,45290,50710,58620,62200,ok,ok
+MA,Massachusetts,May 2025,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51-0000,1200,9.4,0.331,1.55,53630,37630,47780,50550,59240,72520,ok,ok
+MA,Massachusetts,May 2025,51-9196,"Paper Goods Machine Setters, Operators, and Tenders",51-0000,1920,9.9,0.528,0.85,52120,38600,43170,48840,59760,65220,ok,ok
+MA,Massachusetts,May 2025,51-9198,Helpers--Production Workers,51-0000,1790,12.3,0.493,0.46,44300,34390,36120,42280,48490,58050,ok,ok
+MA,Massachusetts,May 2025,51-9199,"Production Workers, All Other",51-0000,2860,12.7,0.787,0.49,48180,31200,33740,45780,50070,75300,ok,ok
+MA,Massachusetts,May 2025,53-1041,Aircraft Cargo Handling Supervisors,53-0000,140,27.8,0.039,0.62,60990,45830,50950,52470,74260,82580,ok,ok
+MA,Massachusetts,May 2025,53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",53-0000,10660,2.9,2.931,0.73,70350,45960,54600,65570,81580,100400,ok,ok
+MA,Massachusetts,May 2025,53-2011,"Airline Pilots, Copilots, and Flight Engineers",53-0000,2240,4.6,0.617,0.93,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,53-2012,Commercial Pilots,53-0000,160,35.6,0.044,0.14,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,53-2021,Air Traffic Controllers,53-0000,120,9.2,0.032,0.22,132750,82150,89890,125060,171010,202070,ok,ok
+MA,Massachusetts,May 2025,53-2022,Airfield Operations Specialists,53-0000,380,27.1,0.103,1.06,58690,45610,50770,56020,64750,78250,ok,ok
+MA,Massachusetts,May 2025,53-2031,Flight Attendants,53-0000,4390,1.7,1.207,1.43,68670,31730,58900,61510,92020,99390,ok,ok
+MA,Massachusetts,May 2025,53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-0000,null,null,null,null,41190,36330,37480,39480,40530,49110,not_released,ok
+MA,Massachusetts,May 2025,53-3031,Driver/Sales Workers,53-0000,3830,19,1.054,0.4,48280,33890,37430,46870,59160,67140,ok,ok
+MA,Massachusetts,May 2025,53-3032,Heavy and Tractor-Trailer Truck Drivers,53-0000,30890,4,8.491,0.64,63570,47080,56320,63030,72150,78480,ok,ok
+MA,Massachusetts,May 2025,53-3033,Light Truck Drivers,53-0000,23350,5.8,6.419,1.02,51410,34700,40860,48110,56930,75340,ok,ok
+MA,Massachusetts,May 2025,53-3051,"Bus Drivers, School",53-0000,9330,3.5,2.565,0.99,61210,44530,54780,65170,69320,71980,ok,ok
+MA,Massachusetts,May 2025,53-3052,"Bus Drivers, Transit and Intercity",53-0000,3970,1.5,1.092,1.07,70760,50380,58650,65460,93500,93500,ok,ok
+MA,Massachusetts,May 2025,53-3053,Shuttle Drivers and Chauffeurs,53-0000,12620,3.3,3.47,2.17,44420,35830,37890,43590,47860,55930,ok,ok
+MA,Massachusetts,May 2025,53-3054,Taxi Drivers,53-0000,null,null,null,null,35170,32830,34800,35270,35370,37440,not_released,ok
+MA,Massachusetts,May 2025,53-3099,"Motor Vehicle Operators, All Other",53-0000,1210,33.6,0.332,1.1,40390,33090,33090,36540,47630,50720,ok,ok
+MA,Massachusetts,May 2025,53-4011,Locomotive Engineers,53-0000,640,0.2,0.175,0.82,118340,84340,108790,108790,119030,168600,ok,ok
+MA,Massachusetts,May 2025,53-5011,Sailors and Marine Oilers,53-0000,420,19.3,0.115,0.56,50550,34180,38570,44070,57890,75130,ok,ok
+MA,Massachusetts,May 2025,53-5021,"Captains, Mates, and Pilots of Water Vessels",53-0000,650,20.5,0.178,0.75,85830,50960,62160,77950,101940,127720,ok,ok
+MA,Massachusetts,May 2025,53-5022,Motorboat Operators,53-0000,null,null,null,null,51740,40070,43330,45160,45760,86310,not_released,ok
+MA,Massachusetts,May 2025,53-5031,Ship Engineers,53-0000,150,18.5,0.04,0.74,120690,81580,102020,122720,150800,150830,ok,ok
+MA,Massachusetts,May 2025,53-6011,Bridge and Lock Tenders,53-0000,40,0.9,0.01,0.53,57130,48050,48080,55830,62800,68710,ok,ok
+MA,Massachusetts,May 2025,53-6021,Parking Attendants,53-0000,3330,8.8,0.916,1.03,38280,33900,36180,37360,38500,44670,ok,ok
+MA,Massachusetts,May 2025,53-6031,Automotive and Watercraft Service Attendants,53-0000,1850,33.3,0.51,0.78,39110,32780,34960,35680,42990,48760,ok,ok
+MA,Massachusetts,May 2025,53-6032,Aircraft Service Attendants,53-0000,1490,15.8,0.408,2.03,46060,40130,40440,44190,45500,58260,ok,ok
+MA,Massachusetts,May 2025,53-6041,Traffic Technicians,53-0000,90,18.8,0.025,0.5,69450,44730,45220,63780,89840,116500,ok,ok
+MA,Massachusetts,May 2025,53-6051,Transportation Inspectors,53-0000,null,null,null,null,77420,39010,41420,79650,105870,113760,not_released,ok
+MA,Massachusetts,May 2025,53-6061,Passenger Attendants,53-0000,1330,14,0.365,2.09,42580,35200,37470,43350,45310,45310,ok,ok
+MA,Massachusetts,May 2025,53-6099,"Transportation Workers, All Other",53-0000,30,22.2,0.009,0.1,67920,43700,45680,55200,79500,119020,ok,ok
+MA,Massachusetts,May 2025,53-7011,Conveyor Operators and Tenders,53-0000,170,16.2,0.047,0.32,42650,38710,40670,43150,43170,43170,ok,ok
+MA,Massachusetts,May 2025,53-7021,Crane and Tower Operators,53-0000,680,42.5,0.188,0.68,100260,59860,76610,98150,129790,129790,ok,ok
+MA,Massachusetts,May 2025,53-7041,Hoist and Winch Operators,53-0000,null,null,null,null,73970,57000,61420,62240,95370,109440,not_released,ok
+MA,Massachusetts,May 2025,53-7051,Industrial Truck and Tractor Operators,53-0000,8390,3.5,2.305,0.46,48190,39850,44270,46850,49470,57410,ok,ok
+MA,Massachusetts,May 2025,53-7061,Cleaners of Vehicles and Equipment,53-0000,5100,9.2,1.403,0.57,40520,32830,36390,38630,43160,48550,ok,ok
+MA,Massachusetts,May 2025,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53-0000,34700,2.9,9.54,0.5,45760,36470,38920,44920,49190,58270,ok,ok
+MA,Massachusetts,May 2025,53-7063,Machine Feeders and Offbearers,53-0000,620,12.9,0.17,0.62,43270,38110,42460,43510,44970,47070,ok,ok
+MA,Massachusetts,May 2025,53-7064,"Packers and Packagers, Hand",53-0000,15330,5.4,4.214,1.17,36190,31270,32520,34200,37360,44010,ok,ok
+MA,Massachusetts,May 2025,53-7065,Stockers and Order Fillers,53-0000,49760,2.7,13.679,0.75,40250,33380,35750,37540,44330,48610,ok,ok
+MA,Massachusetts,May 2025,53-7071,Gas Compressor and Gas Pumping Station Operators,53-0000,30,41.6,0.01,0.43,null,null,null,null,null,null,ok,none
+MA,Massachusetts,May 2025,53-7081,Refuse and Recyclable Material Collectors,53-0000,1010,16.7,0.277,0.29,54230,39180,45040,50310,62360,73090,ok,ok
+MA,Massachusetts,May 2025,53-7121,"Tank Car, Truck, and Ship Loaders",53-0000,140,32.8,0.038,0.56,65670,37960,59440,71750,77010,81760,ok,ok
+MA,Massachusetts,May 2025,53-7199,"Material Moving Workers, All Other",53-0000,130,36.9,0.036,0.24,null,null,null,null,null,null,ok,none
